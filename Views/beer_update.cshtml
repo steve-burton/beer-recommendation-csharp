@@ -1,0 +1,25 @@
+@{
+	Layout = "Shared/_Layout.cshtml";
+  var beer = @Model["beer"];
+  var breweries = @Model["breweries"];
+}
+<div class="form new-form">
+	<form action="/database/beers/@beer.GetId()" method="post">
+    <input type="hidden" name="_method" value="PATCH">
+		<label for="name">Beer Name:</label>
+	  <input class="form-control" type="text" name="name" value="@beer.GetName()" required>
+	  <label for="abv">Alcohol By Volume:</label>
+	  <input class="form-control" type="number" name="abv" step="any" min="0" value="@beer.GetAbv()">
+	  <label for="ibu">Bitterness:</label>
+	  <input class="form-control" type="number" name="ibu" step="any" min="0" value="@beer.GetIbu()">
+	  <label for="brewery">Brewery:</label>
+	  <select class="form-control" name="brewery" required>
+	    @foreach (var brewery in breweries)
+	    {
+	      <option value="@brewery.GetId()">@brewery.GetName()</option>
+	    }
+	  </select>
+		<br>
+	  <button class="btn btn-warning" type="submit">Update Beer</button>
+	</form>
+</div>

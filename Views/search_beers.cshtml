@@ -1,0 +1,54 @@
+@{
+	Layout = "Shared/_Layout.cshtml";
+}
+<div class="form">
+  <form action="/beers/search" method="post">
+    <label for="search-input">Search for Beer</label>
+    <input class="form-control" type="text" name="search-input">
+      <label class="radio-inline">
+        <input type="radio" name="search-type" value="name" checked>Name</Label>
+      <label class="radio-inline">
+        <input type="radio" name="search-type" value="brewery">Brewery</Label>
+      <label class="radio-inline">
+        <input type="radio" name="search-type" value="abv">ABV</Label>
+      <label class="radio-inline">
+        <input type="radio" name="search-type" value="ibu">IBU</Label>
+      <br>
+    <button class="btn btn-warning" type="submit">Search</button>
+	</form>
+  @if (Model != null)
+  {
+    @if (Model.Count == 0)
+    {
+			<div class="row">
+				<div class="col-md-12">
+		      <h4>No results found!</h4>
+				</div>
+			</div>
+    }
+    else
+    {
+			<div class="row">
+				<div class="col-md-12">
+		      <h3>Search results:</h3>
+					@foreach (var beer in Model)
+					{
+						var beerBreweries = beer.GetBreweries();
+						<div class="row">
+							<div class="col-md-12">
+								<p>
+									<a href="/beers/@beer.GetId()">@beer.GetName()</a>
+									 - Brewery:
+									@foreach (var brewery in beerBreweries)
+									{
+										<a href="/breweries/@brewery.GetId()">@brewery.GetName()</a>//Only handles one brewery.
+									}
+								</p>
+							</div>
+						</div>
+					}
+				</div>
+			</div>
+    }
+  }
+</div>

@@ -1,0 +1,1281 @@
+10 Barrel;Apocalypse IPA;6.5;65;-1;Bend, Oregon, USA
+10 Barrel;Backdraft IPA;6.5;62;-1;Bend, Oregon, USA
+10 Barrel;Beer No. 1 ;6;-1;-1;Bend, Oregon, USA
+10 Barrel;Beer No. 2  (Cynical CDA) ;7.1;-1;-1;Bend, Oregon, USA
+10 Barrel;Code 24 Pale Ale;5.2;37;-1;Bend, Oregon, USA
+10 Barrel;DUB Double IPA ;9.5;100;-1;Bend, Oregon, USA
+10 Barrel;Easy Black IPA;5.1;-1;-1;Bend, Oregon, USA
+10 Barrel;Hop Project #2 India Pale Ale ;6.8;74;-1;Bend, Oregon, USA
+10 Barrel;Hop Project #37 Brown India Pale Ale ;6.95;72;-1;Bend, Oregon, USA
+10 Barrel;Hop Project #91 Black India Pale Ale ;7.3;94;-1;Bend, Oregon, USA
+10 Barrel;Hop Rye'it;6.5;-1;-1;Bend, Oregon, USA
+10 Barrel;ISA;5.5;-1;-1;Bend, Oregon, USA
+10 Barrel;OG Wheat India Pale Ale ;6.5;-1;-1;Bend, Oregon, USA
+10 Barrel;Oregon Brown Ale ;6.7;68;-1;Bend, Oregon, USA
+10 Barrel;Pale Ale ;5.8;65;-1;Bend, Oregon, USA
+10 Barrel;Pray for Snow ;7.6;37;-1;Bend, Oregon, USA
+10 Barrel;Precursor ;10;85;-1;Bend, Oregon, USA
+10 Barrel;Project Failed Red Ale ;6.7;65;-1;Bend, Oregon, USA
+10 Barrel;Pub Beer;5;-1;-1;Bend, Oregon, USA
+10 Barrel;Road 41 Kolsch ;5.5;25;-1;Bend, Oregon, USA
+10 Barrel;S1NISTOR Black Ale;5.7;28;-1;Bend, Oregon, USA
+10 Barrel;Summer Ale ;4.7;26;-1;Bend, Oregon, USA
+10 Barrel;Zitrone Kolsch ;5;28;-1;Bend, Oregon, USA
+13 Virtues;Hoptimal Results ;9;100;-1;Portland, Oregon, USA
+2 Towns;Incider;7.5;-1;-1;Corvallis, Oregon, USA
+2 Towns;Nice & Naughty ;10.5;-1;-1;Corvallis, Oregon, USA
+4th Street;Black Roots Blonde;5.2;-1;-1;Gresham, Oregon, USA
+4th Street;Demented Duck Amber;6;-1;-1;Gresham, Oregon, USA
+4th Street;Eager Beaver IPA;5.5;-1;-1;Gresham, Oregon, USA
+4th Street;Roberts Red Ale;6;-1;-1;Gresham, Oregon, USA
+4th Street;Single Malt Ale;7.4;26;-1;Gresham, Oregon, USA
+Alameda;American Rye;5.5;-1;-1;Portland, Oregon, USA
+Alameda;Bad Bunny Imperial Cream Ale ;8.2;33;-1;Portland, Oregon, USA
+Alameda;Barn Owl Imperial Brown ;7.9;90;-1;Portland, Oregon, USA
+Alameda;Beaumont Bock;6.3;-1;-1;Portland, Oregon, USA
+Alameda;Brickhouse Brown Ale ;4.4;23;-1;Portland, Oregon, USA
+Alameda;East Village Amber ;5.2;33;-1;Portland, Oregon, USA
+Alameda;El Torero Organic IPA;7;70;-1;Portland, Oregon, USA
+Alameda;Klickitat Pale Ale;5.3;36;-1;Portland, Oregon, USA
+Alameda;Lucky Devil ;-1;-1;-1;Portland, Oregon, USA
+Alameda;Papa Noels Moonlight Reserve ;-1;-1;-1;Portland, Oregon, USA
+Alameda;Papa Noels Olde Ale ;7.2;40;-1;Portland, Oregon, USA
+Alameda;Siskiyou Golden Ale;3.9;18;-1;Portland, Oregon, USA
+Alameda;Turks Head ESB;4.5;48;-1;Portland, Oregon, USA
+Alameda;Wasco Indian Summer Ale ;6.3;60;-1;Portland, Oregon, USA
+Alameda;Waterfront Park Extra Pale Ale ;5.3;50;-1;Portland, Oregon, USA
+Alameda;Yellow Wolf Imperial IPA ;8.2;103;-1;Portland, Oregon, USA
+Ambacht;Black Gold Porter;6.5;-1;-1;Hillsboro, Oregon, USA
+Ambacht;G++;8;-1;-1;Hillsboro, Oregon, USA
+Ambacht;Golden Farmhouse Ale;6.5;-1;-1;Hillsboro, Oregon, USA
+Ambacht;Golden Rose Farmhouse Ale;6.5;-1;-1;Hillsboro, Oregon, USA
+Ambacht;Golden Rye Farmhouse Ale;6.5;-1;-1;Hillsboro, Oregon, USA
+Ambacht;Matzobrau ;6.5;-1;-1;Hillsboro, Oregon, USA
+Astoria;Aster Amber Ale;4.8;-1;-1;Astoria, Oregon, USA
+Astoria;Bitter Bitch IPA;8.2;100;-1;Astoria, Oregon, USA
+Astoria;Buoy 8 Strong Ale;8;-1;-1;Astoria, Oregon, USA
+Astoria;Da Bomb Blonde;5.3;17;-1;Astoria, Oregon, USA
+Astoria;Shark Spit IPA;6.5;-1;-1;Astoria, Oregon, USA
+Astoria;Solar Dog IPA;6.2;69;-1;Astoria, Oregon, USA
+Astoria;South Jetty IPA;5;-1;-1;Astoria, Oregon, USA
+Astoria;Stone Cold Strong Ale;6.5;40;-1;Astoria, Oregon, USA
+Awesome Ales;Red House IRA;6.5;60;-1;Portland, Oregon, USA
+Awesome Ales;Southern Sky French Pale Ale;5.8;38;-1;Portland, Oregon, USA
+Awesome Ales;Spike Driver American Strong Ale;7.9;80;-1;Portland, Oregon, USA
+Awesome Ales;The 4:19 IPA;6.9;89;-1;Portland, Oregon, USA
+Barley Browns;Brown Ale;-1;-1;-1;Baker City, Oregon, USA
+Barley Browns;ESB;5.8;-1;-1;Baker City, Oregon, USA
+Barley Browns;Jubilee Golden Ale;5.5;-1;-1;Baker City, Oregon, USA
+Barley Browns;Pallet Jack IPA;7;-1;-1;Baker City, Oregon, USA
+Barley Browns;Scottish;-1;-1;-1;Baker City, Oregon, USA
+Barley Browns;Tumbleoff Pale Ale;5.7;-1;-1;Baker City, Oregon, USA
+Barley Browns;Turmoil Ale;7.8;-1;-1;Baker City, Oregon, USA
+Barley Browns;WFO IPA;7.5;-1;-1;Baker City, Oregon, USA
+Barley Browns;Whisky Malt Ale;-1;-1;-1;Baker City, Oregon, USA
+Base Camp;Acclimator Dopplebock;7.6;30;-1;Portland, Oregon, USA
+Base Camp;Belgian Session Ale;4.9;14;-1;Portland, Oregon, USA
+Base Camp;Celestial CDL;5.1;45;-1;Portland, Oregon, USA
+Base Camp;In-Tents India Pale Lager;6.8;55;-1;Portland, Oregon, USA
+Base Camp;Northwest Fest;5.6;28;-1;Portland, Oregon, USA
+Base Camp;Out-of-Bounds Brown;6.2;45;-1;Portland, Oregon, USA
+Base Camp;Paolshienbier;5.8;40;-1;Portland, Oregon, USA
+Base Camp;Prime Meridian IPA ;6.7;56;-1;Portland, Oregon, USA
+Base Camp;Ripstop Rye Pilsner;5.7;52;-1;Portland, Oregon, USA
+Base Camp;Saison de Chetco ;6.6;26;-1;Portland, Oregon, USA
+Base Camp;Ultra Gnar Gnar IPA;6.7;60;-1;Portland, Oregon, USA
+Beer Valley;Delta 9 IPA;6.6;-1;-1;Ontario, Oregon, USA
+Beer Valley;Gone Fishin Mild Ale ;4;-1;-1;Ontario, Oregon, USA
+Beer Valley;Highway to Ale;10.5;-1;-1;Ontario, Oregon, USA
+Beer Valley;Leafer Madness Imperial Pale Ale;9;100;-1;Ontario, Oregon, USA
+Beer Valley;Owyhee Amber Ale;5.5;20;-1;Ontario, Oregon, USA
+Beer Valley;Pigskin Pale Ale;6;45;-1;Ontario, Oregon, USA
+Beer Valley;Rosebud India Pale Ale ;6.5;-1;-1;Ontario, Oregon, USA
+Bend;Barcelona Amber Ale;-1;-1;-1;Bend, Oregon, USA
+Bend;Big Eddy Bitter ;-1;-1;-1;Bend, Oregon, USA
+Bend;Doppelbock ;-1;-1;-1;Bend, Oregon, USA
+Bend;Elk Lake IPA;-1;-1;-1;Bend, Oregon, USA
+Bend;Hophead Imperial IPA ;-1;-1;-1;Bend, Oregon, USA
+Bend;Maple Nut Brown ;-1;-1;-1;Bend, Oregon, USA
+Bend;Metolius Golden Ale;-1;-1;-1;Bend, Oregon, USA
+Bend;Outback Old Ale;-1;-1;-1;Bend, Oregon, USA
+Bend;Outback X ;-1;-1;-1;Bend, Oregon, USA
+Bend;Paulina Pale Ale ;-1;-1;-1;Bend, Oregon, USA
+Big Horse;Big Easy Blonde;5;-1;-1;Hood River, Oregon, USA
+Big Horse;Brewing Moped Rider IPA ;6.7;-1;-1;Hood River, Oregon, USA
+Big Horse;Brother Phils Dubbel;8.1;-1;-1;Hood River, Oregon, USA
+Big Horse;Discombobulator Dopplebock ;8.6;-1;-1;Hood River, Oregon, USA
+Big Horse;Horse Tail Pale Ale;5.5;-1;-1;Hood River, Oregon, USA
+Big Horse;Horse Thief ESB;6;-1;-1;Hood River, Oregon, USA
+Big Horse;Little Red Rooster;-1;-1;-1;Hood River, Oregon, USA
+Big Horse;Mac Stallion 90/- Scotch;7.5;-1;-1;Hood River, Oregon, USA
+Big Horse;Pale Rider IPA;7;-1;-1;Hood River, Oregon, USA
+Big Horse;Phat Dog Barleywine ;14.4;-1;-1;Hood River, Oregon, USA
+Big Horse;Rooster Rock Red;5.6;-1;-1;Hood River, Oregon, USA
+Bills;Asas Premium Blond ;-1;-1;-1;Cannon Beach, Oregon, USA
+Bills;Auld Nutcracker ;-1;-1;-1;Cannon Beach, Oregon, USA
+Bills;Bronze Ale;-1;-1;-1;Cannon Beach, Oregon, USA
+Bills;Curiously Strong;-1;-1;-1;Cannon Beach, Oregon, USA
+Bills;Duckdive Pale Ale;-1;-1;-1;Cannon Beach, Oregon, USA
+Bills;Mild Morning Ale ;-1;-1;-1;Cannon Beach, Oregon, USA
+Block 15;Aboriginale;7.1;50;-1;Corvallis, Oregon, USA
+Block 15;Alpha IPA;6.8;70;-1;Corvallis, Oregon, USA
+Block 15;Belgian Brown;7.8;-1;-1;Corvallis, Oregon, USA
+Block 15;Belgian Cherry Quad ;11;-1;-1;Corvallis, Oregon, USA
+Block 15;Fat Monk Belgian Dubbel ;7.5;-1;-1;Corvallis, Oregon, USA
+Block 15;Glo Golden;4.5;18;-1;Corvallis, Oregon, USA
+Block 15;King Caspian Royalty Red ;9;70;-1;Corvallis, Oregon, USA
+Block 15;One Hop Wonder Centennial ;7.1;60;-1;Corvallis, Oregon, USA
+Block 15;One Hop Wonder Chinook ;6.8;75;-1;Corvallis, Oregon, USA
+Block 15;Printmasters Pale Ale;5.5;34;-1;Corvallis, Oregon, USA
+Block 15;Ridgeback Red;6.3;32;-1;Corvallis, Oregon, USA
+Block 15;The Demon's Farm ;8.75;31;-1;Corvallis, Oregon, USA
+Blue House;Cafe Golden Ale;-1;-1;-1;Vernonia, Oregon, USA
+Boneyard;Armored Fist Imperial Cascadian Dark Ale ;10;-1;-1;Bend, Oregon, USA
+Boneyard;Bone-A-Fide Pale Ale;5.5;40;-1;Bend, Oregon, USA
+Boneyard;Diablo Rojo;5.5;30;-1;Bend, Oregon, USA
+Boneyard;Hop Venom;8.9;70;-1;Bend, Oregon, USA
+Boneyard;Notorious ;12;80;-1;Bend, Oregon, USA
+Boneyard;RPM IPA;6.6;50;-1;Bend, Oregon, USA
+Brannon's;Aerostat Saison;5.5;36;-1;Beaverton, Oregon, USA
+Brannon's;Benzonator Black IPA;6;81.7;-1;Beaverton, Oregon, USA
+Brannon's;Butteridge ESB;5;32.1;-1;Beaverton, Oregon, USA
+Brannon's;Deputation Imperial Red Ale;8;50.9;-1;Beaverton, Oregon, USA
+Brannon's;Heliograph IPA;7.1;99;-1;Beaverton, Oregon, USA
+Brannon's;Vernepator NW Pale Ale;5.8;47.4;-1;Beaverton, Oregon, USA
+Brannon's;Cavorite Golden Ale;5.6;27.1;-1;Beaverton, Oregon, USA
+Breakside;Aztec;9.4;-1;-1;Portland, Oregon, USA
+Breakside;Big Country Winter Ale ;7.8;36;-1;Portland, Oregon, USA
+Breakside;Bourbon Woody ;10;-1;-1;Portland, Oregon, USA
+Breakside;Bourbon-Barrel Aztec ;12;36;-1;Portland, Oregon, USA
+Breakside;IPA;6.5;65;-1;Portland, Oregon, USA
+Breakside;Kellerbier;5.5;37;-1;Portland, Oregon, USA
+Breakside;Liquid Sunshine Pilsner;5.2;-1;-1;Portland, Oregon, USA
+Breakside;Lucky As Helles;-1;-1;-1;Portland, Oregon, USA
+Breakside;Post Time Kolsch ;5.1;16;-1;Portland, Oregon, USA
+Breakside;Woodlawn Pale Ale;5.2;-1;-1;Portland, Oregon, USA
+BridgePort;Beertown Brown;5.2;20;-1;Portland, Oregon, USA
+BridgePort;Blue Heron Pale Ale;4.9;18;-1;Portland, Oregon, USA
+BridgePort;BourbonEzer ;6.3;-1;-1;Portland, Oregon, USA
+BridgePort;Conviction Pale Ale (Trilogy #1);5.2;40;-1;Portland, Oregon, USA
+BridgePort;Dark Rain Black Ale;5.6;60;-1;Portland, Oregon, USA
+BridgePort;Ebenezer Ale ;6.4;40;-1;Portland, Oregon, USA
+BridgePort;Enchanted ;7.8;-1;-1;Portland, Oregon, USA
+BridgePort;ESB;6.1;45;-1;Portland, Oregon, USA
+BridgePort;Fallen Friar ;8.2;-1;-1;Portland, Oregon, USA
+BridgePort;Haymaker Extra Pale Ale ;5.3;18;-1;Portland, Oregon, USA
+BridgePort;Highland Ambush Scotch Ale ;6.8;-1;-1;Portland, Oregon, USA
+BridgePort;Hop Czar Cascadian Dark IPA ;7.5;85;-1;Portland, Oregon, USA
+BridgePort;Hop Czar Citra Dry-Hopped IPA ;6.5;60;-1;Portland, Oregon, USA
+BridgePort;Hop Czar Imperial IPA;7.5;87;-1;Portland, Oregon, USA
+BridgePort;Hop Czar Topaz Copper IPA ;6.5;70;-1;Portland, Oregon, USA
+BridgePort;Hop Harvest Ale (2009) ;7;60;-1;Portland, Oregon, USA
+BridgePort;Hop Harvest Ale (2010) ;6.56;65;-1;Portland, Oregon, USA
+BridgePort;Hop Harvest Ale (2011) ;7;-1;-1;Portland, Oregon, USA
+BridgePort;Hop Harvest Pilsner ;8;60;-1;Portland, Oregon, USA
+BridgePort;IPA;5.5;50;-1;Portland, Oregon, USA
+BridgePort;Kingpin Double Red Ale ;7.5;65;-1;Portland, Oregon, USA
+BridgePort;Nightcap Winter Ale ;7.2;40;-1;Portland, Oregon, USA
+BridgePort;Old Knucklehead;9.1;60;-1;Portland, Oregon, USA
+BridgePort;Pintail Ale;5.2;18;-1;Portland, Oregon, USA
+BridgePort;Ropewalk;4.5;-1;-1;Portland, Oregon, USA
+BridgePort;Smooth Ryed ;6.3;55;-1;Portland, Oregon, USA
+BridgePort;Summer Squeeze Bright Ale ;4.5;19;-1;Portland, Oregon, USA
+BridgePort;Supris;6;17;-1;Portland, Oregon, USA
+BridgePort;Trilogy #2 - Aussie Salute IPA ;5.8;55;-1;Portland, Oregon, USA
+BridgePort;Trilogy #3 - Brewers' Class ;5;30;-1;Portland, Oregon, USA
+Buoy;Cream Ale;5.7;19;-1;Astoria, Oregon, USA
+Buoy;Czech Pils;6.2;35;-1;Astoria, Oregon, USA
+Buoy;Doppelbock;7.7;28;-1;Astoria, Oregon, USA
+Buoy;Dunkel;5.5;20;-1;Astoria, Oregon, USA
+Buoy;Helles;5.3;19;-1;Astoria, Oregon, USA
+Buoy;IPA;7.5;70;-1;Astoria, Oregon, USA
+Buoy;Kettle Demon ;9.5;100;-1;Astoria, Oregon, USA
+Buoy;NW Red Ale;6.7;65;-1;Astoria, Oregon, USA
+Buoy;Pale Ale;5.2;38;-1;Astoria, Oregon, USA
+Burnside;Alter Ego Imperial IPA;7.9;99.5;-1;Portland, Oregon, USA
+Burnside;IPA;6.6;84;-1;Portland, Oregon, USA
+Burnside;Lime Kolsch ;5.4;18;-1;Portland, Oregon, USA
+Burnside;Oatmeal Pale Ale;5.6;44;-1;Portland, Oregon, USA
+Burnside;Permafrost ;8.3;77;-1;Portland, Oregon, USA
+Burnside;Spring Rye ;5.5;21;-1;Portland, Oregon, USA
+Burnside;Stock Ale;5.8;51;-1;Portland, Oregon, USA
+Burnside;Virgil Rye ;5.16;24.2;-1;Portland, Oregon, USA
+Calapooia;Big Aft Pale;5.5;-1;-1;Albany, Oregon, USA
+Calapooia;Boxcar Brown;5;-1;-1;Albany, Oregon, USA
+Calapooia;Caber Toss Scotch Ale;6.5;-1;-1;Albany, Oregon, USA
+Calapooia;Kringle Krack ;9;-1;-1;Albany, Oregon, USA
+Calapooia;Norman Ale ;5;-1;-1;Albany, Oregon, USA
+Calapooia;RIPArian IPA;6.5;-1;-1;Albany, Oregon, USA
+Calapooia;Riverdog ESB;5.5;-1;-1;Albany, Oregon, USA
+Calapooia;SantiAmber Ale;5;-1;-1;Albany, Oregon, USA
+Calapooia;Simcoe Springs IPA;6.5;85;-1;Albany, Oregon, USA
+Calapooia;Somethin Lite;-1;-1;-1;Albany, Oregon, USA
+Calapooia;Yankee Clipper IPA;6.5;64;-1;Albany, Oregon, USA
+Caldera;Ashland Amber Ale;5.4;24;-1;Ashland, Oregon, USA
+Caldera;Double Hemp Brown ;4.5;18;-1;Ashland, Oregon, USA
+Caldera;Dry Hop Orange;5.6;80;-1;Ashland, Oregon, USA
+Caldera;Dry Hop Red;5.8;100;-1;Ashland, Oregon, USA
+Caldera;Helles Lager ;5.6;17;-1;Ashland, Oregon, USA
+Caldera;Hop Hash ;7;-1;-1;Ashland, Oregon, USA
+Caldera;Hopportunity Knocks;6.8;100;-1;Ashland, Oregon, USA
+Caldera;IPA;6.1;94;-1;Ashland, Oregon, USA
+Caldera;Lawnmower Lager;3.9;16;-1;Ashland, Oregon, USA
+Caldera;Oktober Festbier ;6.1;-1;-1;Ashland, Oregon, USA
+Caldera;Pale Ale;5.6;55;-1;Ashland, Oregon, USA
+Caldera;Pilsener Beer;5.2;33;-1;Ashland, Oregon, USA
+Caldera;Southside Strong Ale ;7.2;64;-1;Ashland, Oregon, USA
+Caldera;Vas Deferens Ale ;8.1;26;-1;Ashland, Oregon, USA
+Captured By Porches;BBQ Bitter ;-1;-1;-1;St. Helens, Oregon, USA
+Captured by Porches;Emma;5.6;24;-1;St. Helens, Oregon, USA
+Captured by Porches;Invasive Species IPA;6.3;70;-1;St. Helens, Oregon, USA
+Captured by Porches;Miskatonic Dark Rye ;6.7;36;-1;St. Helens, Oregon, USA
+Captured by Porches;Red Rye Ale ;6.1;24;-1;St. Helens, Oregon, USA
+Captured by Porches;Spring Kolsch ;5.2;16;-1;St. Helens, Oregon, USA
+Captured by Porches;Two Cats Kolsch;5.2;16;-1;St. Helens, Oregon, USA
+Captured By Porches;Yggdrasil;9;55;-1;St. Helens, Oregon, USA
+Cascade Brewing;Apricot Ale;8.35;-1;-1;Portland, Oregon, USA
+Cascade Brewing;Blackberry Ale;5.4;-1;-1;Portland, Oregon, USA
+Cascade Brewing;Cuvee du Jongleur ;8.41;-1;-1;Portland, Oregon, USA
+Cascade Brewing;Imperial Bi-Polar Double IPA ;7.6;70;-1;Portland, Oregon, USA
+Cascade Brewing;Kriek Ale ;6.6;-1;-1;Portland, Oregon, USA
+Cascade Brewing;Oblique Blonde Coffee ;5.9;60;-1;Portland, Oregon, USA
+Cascade Brewing;The Vine ;5;-1;-1;Portland, Oregon, USA
+Cascade Lakes;20" Brown;5.4;34;-1;Redmond, Oregon, USA
+Cascade Lakes;20th Anniversary IPA ;6.4;82;-1;Redmond, Oregon, USA
+Cascade Lakes;Angus MacDougals Amber;5.7;30;-1;Redmond, Oregon, USA
+Cascade Lakes;Blonde Bombshell;4.2;26;-1;Redmond, Oregon, USA
+Cascade Lakes;Cyclops IPA ;6.9;65;-1;Redmond, Oregon, USA
+Cascade Lakes;India Pale Ale;6.4;90;-1;Redmond, Oregon, USA
+Cascade Lakes;IRA ;6.8;78;-1;Redmond, Oregon, USA
+Cascade Lakes;Paulina Lake Pilsner ;4.5;-1;-1;Redmond, Oregon, USA
+Cascade Lakes;Pine Marten Pale Ale;4.5;-1;-1;Redmond, Oregon, USA
+Cascade Lakes;Project X Pale Ale ;5.6;41;-1;Redmond, Oregon, USA
+Cascade Lakes;Rooster Tail Ale;5.3;20;-1;Redmond, Oregon, USA
+Cascade Lakes;Santas Little Helper ;6.3;50;-1;Redmond, Oregon, USA
+Cascade Lakes;Skookum Creek Ale ;6.8;50;-1;Redmond, Oregon, USA
+Cascade Lakes;Slippery Slope ;6.4;50;-1;Redmond, Oregon, USA
+Chatoe Rogue;Dirtoir Black Lager ;5;35;-1;Newport, Oregon, USA
+Chatoe Rogue;Good Chit Pilsner ;5.2;40;-1;Newport, Oregon, USA
+Chatoe Rogue;OREgasmic Ale ;7;40;-1;Newport, Oregon, USA
+Chatoe Rogue;Single Malt Ale ;5.3;35;-1;Newport, Oregon, USA
+Chatoe Rogue;Wet Hop Ale ;6.4;40;-1;Newport, Oregon, USA
+Cheerful Tortoise;Turtle Dew ;6.3;-1;-1;Portland, Oregon, USA
+Clinton Street;IPA ;-1;-1;-1;Portland, Oregon, USA
+Coalition;Bumps Bitter ESB;5.5;55.6;-1;Portland, Oregon, USA
+Coalition;King Kitty Red;5.74;59;-1;Portland, Oregon, USA
+Coalition;Mr. Pigs Pale Ale;5;54;-1;Portland, Oregon, USA
+Coalition;Off The Wagon Dunkle Rye Ale;5.4;40;-1;Portland, Oregon, USA
+Coalition;Rooster's Cream Ale (Wu Cream Ale);4.8;28;-1;Portland, Oregon, USA
+Coalition;Space Fruit ;7;50;-1;Portland, Oregon, USA
+Coalition;Two Dogs IPA;6.1;70;-1;Portland, Oregon, USA
+Collaborator;Czech'd Out Pils ;5;40;-1;Portland, Oregon, USA
+Collaborator;Hallucinator Olde Ale ;7.5;-1;-1;Portland, Oregon, USA
+Collaborator;Hopfinium ;6.6;60;-1;Portland, Oregon, USA
+Collaborator;Rawkin Bock ;6.9;-1;-1;Portland, Oregon, USA
+Collaborator;Resurrection Rye ;6.6;80;-1;Portland, Oregon, USA
+Columbia River;CRB Pale Ale;6.7;52;-1;Portland, Oregon, USA
+Columbia River;Double Vision;-1;23;-1;Portland, Oregon, USA
+Columbia River;ESB;5.7;37.6;-1;Portland, Oregon, USA
+Columbia River;Ground "N" Pound;8;86;-1;Portland, Oregon, USA
+Columbia River;Hop Heaven IPA;7.5;78;-1;Portland, Oregon, USA
+Columbia River;Irish Red ;-1;-1;-1;Portland, Oregon, USA
+Columbia River;Northern English Brown;6.5;34;-1;Portland, Oregon, USA
+Columbia River;Nyctophobia Black IPA;7.5;78;-1;Portland, Oregon, USA
+Columbia River;Rick "N" Bock'r ;7.5;37;-1;Portland, Oregon, USA
+Columbia River;Sandy Blonde;5.5;18;-1;Portland, Oregon, USA
+Columbia River;Vienna Lager ;5.5;78;-1;Portland, Oregon, USA
+Columbia River;War Elephant ;8.5;85;-1;Portland, Oregon, USA
+Crouch Vale;Oregon Best ;4.2;-1;-1;South Woodham Ferrers, England, United Kingdom
+Crux;Double Cross;12;20;-1;Bend, Oregon, USA
+Crux;Flanders Red;6.5;18;-1;Bend, Oregon, USA
+Crux;Half Hitch;10;80;-1;Bend, Oregon, USA
+Crux;Impasse;6.6;25;-1;Bend, Oregon, USA
+Crux;Insider;7.6;80;-1;Bend, Oregon, USA
+Crux;Marzen Bier;5.5;26;-1;Bend, Oregon, USA
+Crux;Mosaic;10;85;-1;Bend, Oregon, USA
+Crux;Off Leash;4.5;30;-1;Bend, Oregon, USA
+Crux;Outcast ;7.6;60;-1;Bend, Oregon, USA
+Crux;Peated Scotch Ale;8.5;40;-1;Bend, Oregon, USA
+Crux;Pilsner;5.2;35;-1;Bend, Oregon, USA
+Crux;Snow Cave ;10;20;-1;Bend, Oregon, USA
+Cyderworks;Oregon Dry Sparkling Hard Cider;6.5;-1;-1;Portland, Oregon, USA
+De Garde;Beaucoup Desay ;8.9;-1;-1;Tillamook, Oregon, USA
+De Garde;Biere de Garde (Port Barrel) ;10;-1;-1;Tillamook, Oregon, USA
+De Garde;Connak Ambre ;8.2;-1;-1;Tillamook, Oregon, USA
+De Garde;Desay a l'Orange ;6.4;25;-1;Tillamook, Oregon, USA
+De Garde;Fleur Desay;6.3;-1;-1;Tillamook, Oregon, USA
+De Garde;Hose ;4;-1;-1;Tillamook, Oregon, USA
+De Garde;Lee Noir;8.6;-1;-1;Tillamook, Oregon, USA
+De Garde;LOAK;11.7;-1;-1;Tillamook, Oregon, USA
+De Garde;Nelson Hose;4;-1;-1;Tillamook, Oregon, USA
+De Garde;Petit Desay;5;-1;-1;Tillamook, Oregon, USA
+De Garde;Poppy Van Ambre ;8.6;-1;-1;Tillamook, Oregon, USA
+De Garde;Saison Desay Blend No. 1 ;6.5;-1;-1;Tillamook, Oregon, USA
+De Garde;Saison Desay Blend No. 2 ;6.5;-1;-1;Tillamook, Oregon, USA
+De Garde;Saison Desay Blend No. 3 ;6.5;-1;-1;Tillamook, Oregon, USA
+De Garde;The Archer;7;-1;-1;Tillamook, Oregon, USA
+Deschutes;18th Anniversary Pilsner ;5;-1;-1;Bend, Oregon, USA
+Deschutes;19th Anniversary Golden Ale ;8.7;35;-1;Bend, Oregon, USA
+Deschutes;Altitude Amber ;7;-1;-1;Bend, Oregon, USA
+Deschutes;Armory XPA;5.9;58;-1;Bend, Oregon, USA
+Deschutes;Bachelor Bitter;5.4;43;-1;Bend, Oregon, USA
+Deschutes;Bachelor ESB;5.3;-1;-1;Bend, Oregon, USA
+Deschutes;Bendsch ;5.1;-1;-1;Bend, Oregon, USA
+Deschutes;Big Rig Bitter;6;-1;-1;Bend, Oregon, USA
+Deschutes;Bond Street Brown Ale ;4.8;32;-1;Bend, Oregon, USA
+Deschutes;Broken Top Bock ;7;26;-1;Bend, Oregon, USA
+Deschutes;Buzzsaw Brown ;4.8;-1;-1;Bend, Oregon, USA
+Deschutes;Cascade Ale;4.5;-1;-1;Bend, Oregon, USA
+Deschutes;Cellar Door;6.3;62;-1;Bend, Oregon, USA
+Deschutes;Chainbreaker White IPA;5.6;55;-1;Bend, Oregon, USA
+Deschutes;Chasin Freshies ;7.2;65;-1;Bend, Oregon, USA
+Deschutes;Cinder Cone Red Ale;5.3;55;-1;Bend, Oregon, USA
+Deschutes;Ester The Farmhouse Maiden ;5.9;15;-1;Bend, Oregon, USA
+Deschutes;Far Rock Strong Ale ;6.7;-1;-1;Bend, Oregon, USA
+Deschutes;Foray Belgian Style IPA;6.4;60;-1;Bend, Oregon, USA
+Deschutes;French Oak Mirror Pond ;-1;-1;-1;Bend, Oregon, USA
+Deschutes;Fresh Hop Mirror Pond ;5.2;-1;-1;Bend, Oregon, USA
+Deschutes;Fresh Squeezed IPA;6.4;60;-1;Bend, Oregon, USA
+Deschutes;Green Lakes Organic Ale ;5;45;-1;Bend, Oregon, USA
+Deschutes;Helipad Helles Bock;7;-1;-1;Bend, Oregon, USA
+Deschutes;Hop Henge Experimental IPA ;8.8;99;-1;Bend, Oregon, USA
+Deschutes;Hop Henge Experimental IPA ;8.75;95;-1;Bend, Oregon, USA
+Deschutes;Hop Henge Imperial IPA ;8.1;95;-1;Bend, Oregon, USA
+Deschutes;Hop in the Dark Cascadian Dark Ale ;6.5;70;-1;Bend, Oregon, USA
+Deschutes;Hop Trip ;5.4;38;-1;Bend, Oregon, USA
+Deschutes;Horizon Glacier ESB ;-1;-1;-1;Bend, Oregon, USA
+Deschutes;Inversion IPA;6.8;80;-1;Bend, Oregon, USA
+Deschutes;Jubel 2010 ;11;55;-1;Bend, Oregon, USA
+Deschutes;Jubelale ;6.7;60;-1;Bend, Oregon, USA
+Deschutes;King Cone ;5.4;-1;-1;Bend, Oregon, USA
+Deschutes;Mirror Mirror ;11.2;53;-1;Bend, Oregon, USA
+Deschutes;Mirror Pond Pale Ale;5;40;-1;Bend, Oregon, USA
+Deschutes;Old Sam Hain ;5.6;-1;-1;Bend, Oregon, USA
+Deschutes;Passport Rye ;5.5;-1;-1;Bend, Oregon, USA
+Deschutes;Pine Drops IPA ;7.1;68;-1;Bend, Oregon, USA
+Deschutes;Pine Mountain Pilsner;5.2;40;-1;Bend, Oregon, USA
+Deschutes;Pinot Noir Jubelale ;-1;-1;-1;Bend, Oregon, USA
+Deschutes;Quail Springs IPA;6;-1;-1;Bend, Oregon, USA
+Deschutes;Red Chair Northwest Pale Ale (NWPA) ;6.2;60;-1;Bend, Oregon, USA
+Deschutes;River Ale;4;28;-1;Bend, Oregon, USA
+Deschutes;Schwarzbier ;4.8;-1;-1;Bend, Oregon, USA
+Deschutes;Spencers Golden Orange;4.5;-1;-1;Bend, Oregon, USA
+Deschutes;The Dissident ;11.4;18;-1;Bend, Oregon, USA
+Deschutes;The Enigma ;7.5;50;-1;Bend, Oregon, USA
+Deschutes;The Stoic ;11;-1;-1;Bend, Oregon, USA
+Deschutes;Twilight Ale ;5;35;-1;Bend, Oregon, USA
+Double Mountain;Alpenbrew ;5;40;-1;Hood River, Oregon, USA
+Double Mountain;Altbier;5.6;-1;-1;Hood River, Oregon, USA
+Double Mountain;Bockus;7.1;45;-1;Hood River, Oregon, USA
+Double Mountain;Bonne Idee ;8.4;50;-1;Hood River, Oregon, USA
+Double Mountain;Brown Ale;4.9;-1;-1;Hood River, Oregon, USA
+Double Mountain;Clusterf#ck ;7.3;85;-1;Hood River, Oregon, USA
+Double Mountain;Das Boot ;6.2;50;-1;Hood River, Oregon, USA
+Double Mountain;Devils Kitchen ;8;-1;-1;Hood River, Oregon, USA
+Double Mountain;Devils Kriek;9;35;-1;Hood River, Oregon, USA
+Double Mountain;Fa La La La La ;7.6;85;-1;Hood River, Oregon, USA
+Double Mountain;Gravity Mountain Collaboration IPA ;7.2;70;-1;Hood River, Oregon, USA
+Double Mountain;Hop Lava;7;-1;-1;Hood River, Oregon, USA
+Double Mountain;India Red Ale (IRA);6.8;-1;-1;Hood River, Oregon, USA
+Double Mountain;Killer Green ;7.4;-1;-1;Hood River, Oregon, USA
+Double Mountain;Kolsch;5.2;-1;-1;Hood River, Oregon, USA
+Double Mountain;Molten Lava ;9;95;-1;Hood River, Oregon, USA
+Double Mountain;Pale Ale;5.1;-1;-1;Hood River, Oregon, USA
+Double Mountain;Pale Death;9.5;93;-1;Hood River, Oregon, USA
+Double Mountain;The Vaporizer;6;50;-1;Hood River, Oregon, USA
+Double Mountain;Vienna Lager;6.5;25;-1;Hood River, Oregon, USA
+Draper;Cream Ale;5;-1;-1;Tenmile, Oregon, USA
+Draper;IPA;6;-1;-1;Tenmile, Oregon, USA
+Ecliptic;Arcturus IPA;7.4;75;-1;Portland, Oregon, USA
+Ecliptic;Canopus India Wheat Ale;6.8;70;-1;Portland, Oregon, USA
+Ecliptic;Coalsack Cascadian Dark Ale;6.2;68;-1;Portland, Oregon, USA
+Ecliptic;Filament Winter IPA ;7.2;70;-1;Portland, Oregon, USA
+Ecliptic;Perihelion Crimson Saison ;5.6;20;-1;Portland, Oregon, USA
+Ecliptic;Procyon Pale Ale;5.9;60;-1;Portland, Oregon, USA
+Ecliptic;Regulus Sparkling Ale ;5.8;55;-1;Portland, Oregon, USA
+Ecliptic;Rigel Sparkling Ale;5.8;31;-1;Portland, Oregon, USA
+Ecliptic;Spica Hefepils;5.5;38;-1;Portland, Oregon, USA
+Elk Rock;Velvet Antler Amber Ale ;5.1;18;-1;Portland, Oregon, USA
+Elk Rock;Wapati IPA ;6;47;-1;Portland, Oregon, USA
+Elliot Glacier;Bennett Pass Brown ;-1;-1;-1;Parkdale, Oregon, USA
+Elliot Glacier;Crevasse-yer-Ass Winter Ale ;-1;-1;-1;Parkdale, Oregon, USA
+Elliot Glacier;Gnarl Ridge India Pale Ale ;-1;-1;-1;Parkdale, Oregon, USA
+Elliot Glacier;Parkdale Pale Ale ;-1;-1;-1;Parkdale, Oregon, USA
+Elliot Glacier;Red Hill Scottish ;-1;-1;-1;Parkdale, Oregon, USA
+Eugene City;Alt Bier;5.5;48;-1;Eugene, Oregon, USA
+Eugene City;Dubbel ;-1;-1;-1;Eugene, Oregon, USA
+Eugene City;Natty Red;8.5;85;-1;Eugene, Oregon, USA
+Eugene City;Saison ;6.5;20;-1;Eugene, Oregon, USA
+Eugene City;Tracktown 100 Meter Ale;6.25;-1;-1;Eugene, Oregon, USA
+Eugene City;Tracktown 200 Meter Ale;7.5;90;-1;Eugene, Oregon, USA
+Eugene City;Tracktown 300 Meter Ale ;-1;120;-1;Eugene, Oregon, USA
+Eugene City;Tracktown IPA;7;85;-1;Eugene, Oregon, USA
+Eugene City;Tracktown Triple Jump Pale Ale;5.4;55;-1;Eugene, Oregon, USA
+Eugene City;Tripel;9;18;-1;Eugene, Oregon, USA
+Fearless;Bennetts Pale Ale;5;32;-1;Estacada, Oregon, USA
+Fearless;Clackamas Cream Ale;4.8;15;-1;Estacada, Oregon, USA
+Fearless;Cream Ale ;3.5;15;-1;Estacada, Oregon, USA
+Fearless;ESB;5;67;-1;Estacada, Oregon, USA
+Fearless;India Pale Ale;5;72;-1;Estacada, Oregon, USA
+Fearless;Kens Wicked Brown;4.5;40;-1;Estacada, Oregon, USA
+Fearless;Mjolnir Imperial IPA;6.9;-1;-1;Estacada, Oregon, USA
+Fearless;Scottish Ale;5;22;-1;Estacada, Oregon, USA
+Fearless;Strong Scotch Ale ;8;25;-1;Estacada, Oregon, USA
+Fire Mountain;Bad Henry IPA;6.8;72;-1;Carlton, Oregon, USA
+Fire Mountain;Bogart Northwest IPA;6.9;99;-1;Carlton, Oregon, USA
+Fire Mountain;Cold Cold Billy Double IPA ;7.8;92;-1;Carlton, Oregon, USA
+Fire Mountain;Hangman Winter Fest ;8;82;-1;Carlton, Oregon, USA
+Fire Mountain;Oregon Pale Ale;5.5;40;-1;Carlton, Oregon, USA
+Fire Mountain;Tan Line ;5.2;82;-1;Carlton, Oregon, USA
+Fire Station 5;Brush Fire Summer Ale ;-1;-1;-1;Portland, Oregon, USA
+Fire Station 5;Bunker Gear Winter Ale ;6.5;-1;-1;Portland, Oregon, USA
+Fire Station 5;Fire Boat Amber;5.5;21;-1;Portland, Oregon, USA
+Fire Station 5;Fire Drill ESB;5.4;27;-1;Portland, Oregon, USA
+Fire Station 5;Golden Brigade Blonde Ale;5;22;-1;Portland, Oregon, USA
+Fire Station 5;Steam Pumper IPA;5.6;49;-1;Portland, Oregon, USA
+Flat Tail;Amber Ale;5;-1;-1;Corvallis, Oregon, USA
+Flat Tail;American Pale Ale;5.5;-1;-1;Corvallis, Oregon, USA
+Flat Tail;Barrel Aged Lickspigot Barleywine ;12.9;80;-1;Corvallis, Oregon, USA
+Flat Tail;Golden Years Pineapple IPA;6.5;-1;-1;Corvallis, Oregon, USA
+Flat Tail;IPA;6.5;-1;-1;Corvallis, Oregon, USA
+Flat Tail;Licentious Goat;8.5;-1;-1;Corvallis, Oregon, USA
+Flat Tail;Lovin Hoppin Squeezin;5;-1;-1;Corvallis, Oregon, USA
+Flat Tail;Rough Cut India Pale Ale;6.5;-1;-1;Corvallis, Oregon, USA
+Flat Tail;Saison de la Tail;10;-1;-1;Corvallis, Oregon, USA
+Flat Tail;Seriously Low Budget Wild Blonde ;5;-1;-1;Corvallis, Oregon, USA
+Flat Tail;Six;6.5;-1;-1;Corvallis, Oregon, USA
+Flat Tail;Some Like It Hop ;10;90;-1;Corvallis, Oregon, USA
+Flat Tail;Tailgater Kolsch;5.5;-1;-1;Corvallis, Oregon, USA
+Flat Tail;Wetsuit Schwarzenkolsch;5;-1;-1;Corvallis, Oregon, USA
+Fort George;1811 Lager;5.1;-1;-1;Astoria, Oregon, USA
+Fort George;Cohoperative;5.6;-1;-1;Astoria, Oregon, USA
+Fort George;Illuminator;-1;-1;-1;Astoria, Oregon, USA
+Fort George;Java The Hop ;5.6;-1;-1;Astoria, Oregon, USA
+Fort George;Next Adventure Black IPA;6.2;-1;-1;Astoria, Oregon, USA
+Fort George;North II Grand Crue ;8;-1;-1;Astoria, Oregon, USA
+Fort George;North VII ;9;-1;-1;Astoria, Oregon, USA
+Fort George;Nut Red Ale;5.9;-1;-1;Astoria, Oregon, USA
+Fort George;Roses on Roses XVIth Chapel ;9.2;-1;-1;Astoria, Oregon, USA
+Fort George;Suicide Squeeze IPA ;4.5;-1;-1;Astoria, Oregon, USA
+Fort George;Sunrise Oatmeal Pale Ale;5.5;-1;-1;Astoria, Oregon, USA
+Fort George;Tender Loving Empire NWPA ;5.8;-1;-1;Astoria, Oregon, USA
+Fort George;The Optimist;6.2;-1;-1;Astoria, Oregon, USA
+Fort George;Vortex IPA;7.4;97;-1;Astoria, Oregon, USA
+Fort George;XVI Chapel;9.5;-1;-1;Astoria, Oregon, USA
+Full Sail;20th Anniversary Doppel X ;-1;-1;-1;Hood River, Oregon, USA
+Full Sail;21st Anniversary Doppelbock ;8;34;-1;Hood River, Oregon, USA
+Full Sail;25th Anniversary Pale Doppelbock ;9;-1;-1;Hood River, Oregon, USA
+Full Sail;26 Cascade Pilsner ;6;60;-1;Hood River, Oregon, USA
+Full Sail;Amber Ale;5.9;-1;-1;Hood River, Oregon, USA
+Full Sail;Belgian Dubbel ;7.3;-1;-1;Hood River, Oregon, USA
+Full Sail;Bock ;6.6;-1;-1;Hood River, Oregon, USA
+Full Sail;Brewer's Share Collin's Dark Secret ;6.2;31;-1;Hood River, Oregon, USA
+Full Sail;Brewer's Share Extra Special Barney (ESB) ;6.5;35;-1;Hood River, Oregon, USA
+Full Sail;Brewer's Share Jimvar Bohemian Pilsner ;5.6;40;-1;Hood River, Oregon, USA
+Full Sail;Brewer's Share Phil's Existential Alt ;5.1;43;-1;Hood River, Oregon, USA
+Full Sail;Brewer's Share Vendell's Veizen ;7.2;21;-1;Hood River, Oregon, USA
+Full Sail;Bump in the Night;6.5;60;-1;Hood River, Oregon, USA
+Full Sail;Double Wrecked Wreck the Halls ;-1;-1;-1;Hood River, Oregon, USA
+Full Sail;Elevation ;7.5;80;-1;Hood River, Oregon, USA
+Full Sail;Grandsun of Spot IPA ;6;80;-1;Hood River, Oregon, USA
+Full Sail;Hop Pursuit ;6;55;-1;Hood River, Oregon, USA
+Full Sail;Hopocity;5.6;55;-1;Hood River, Oregon, USA
+Full Sail;IPA;6;60;-1;Hood River, Oregon, USA
+Full Sail;Keelhauler ;6.8;45;-1;Hood River, Oregon, USA
+Full Sail;Limited Edition Lager (LTD 01) ;6.4;-1;-1;Hood River, Oregon, USA
+Full Sail;Limited Edition Lager (LTD 02) ;6.4;32;-1;Hood River, Oregon, USA
+Full Sail;Limited Edition Lager (LTD 03) ;5.6;35;-1;Hood River, Oregon, USA
+Full Sail;Limited Edition Lager (LTD 04) ;7;45;-1;Hood River, Oregon, USA
+Full Sail;Limited Edition Lager (LTD 05) ;5.6;28;-1;Hood River, Oregon, USA
+Full Sail;Limited Edition Lager (LTD 06) ;7;34;-1;Hood River, Oregon, USA
+Full Sail;Limited Edition Lager (LTD 07) ;5.7;26;-1;Hood River, Oregon, USA
+Full Sail;Lupulin Fresh Hop ;5.8;70;-1;Hood River, Oregon, USA
+Full Sail;Nugget Special Red Ale ;6.5;45;-1;Hood River, Oregon, USA
+Full Sail;Nut Brown Ale ;6;31;-1;Hood River, Oregon, USA
+Full Sail;Old Boardhead Barleywine ;9;91;-1;Hood River, Oregon, USA
+Full Sail;Pale Ale;5.4;-1;-1;Hood River, Oregon, USA
+Full Sail;Prodigal Sun IPA ;6.2;80;-1;Hood River, Oregon, USA
+Full Sail;Rip Curl;5;28;-1;Hood River, Oregon, USA
+Full Sail;Sanctuary;7;20;-1;Hood River, Oregon, USA
+Full Sail;Session Black Lager;5.4;18;-1;Hood River, Oregon, USA
+Full Sail;Session Export Golden Lager ;5.8;28;-1;Hood River, Oregon, USA
+Full Sail;Session Fest Red Lager ;6.2;26;-1;Hood River, Oregon, USA
+Full Sail;Session IPA;5.1;47;-1;Hood River, Oregon, USA
+Full Sail;Session Premium Lager;5.1;18;-1;Hood River, Oregon, USA
+Full Sail;Slipknot Imperial IPA ;7.8;-1;-1;Hood River, Oregon, USA
+Full Sail;Spotless IPA ;6.5;70;-1;Hood River, Oregon, USA
+Full Sail;Sunspot Pale Ale ;5.5;82;-1;Hood River, Oregon, USA
+Full Sail;Switchback Ale ;5;-1;-1;Hood River, Oregon, USA
+Full Sail;Vesuvius ;8.5;20;-1;Hood River, Oregon, USA
+Full Sail;Wassail Winter Ale ;6.5;-1;-1;Hood River, Oregon, USA
+Full Sail;Wreck the Halls ;6.5;-1;-1;Hood River, Oregon, USA
+Gigantic;Axes of Evil;6;-1;-1;Portland, Oregon, USA
+Gigantic;Bang On ;5.6;-1;-1;Portland, Oregon, USA
+Gigantic;Black Friday Beer;8.1;-1;-1;Portland, Oregon, USA
+Gigantic;Dark Meddle;5.9;-1;-1;Portland, Oregon, USA
+Gigantic;Dynomite!;8.9;90;-1;Portland, Oregon, USA
+Gigantic;Ginormous IPA;8.8;-1;-1;Portland, Oregon, USA
+Gigantic;Hellion ;8.5;-1;-1;Portland, Oregon, USA
+Gigantic;High Fidelity Beer;5.9;-1;-1;Portland, Oregon, USA
+Gigantic;IPA;7.3;-1;-1;Portland, Oregon, USA
+Gigantic;The City Never Sleeps;7.3;-1;-1;Portland, Oregon, USA
+Gigantic;The End of Reason;8.3;-1;-1;Portland, Oregon, USA
+Gigantic;The Future Is Now;6.4;-1;-1;Portland, Oregon, USA
+Gigantic;The Most Interesting Beer in the World;5.5;-1;-1;Portland, Oregon, USA
+Gigantic;Too Much Coffee Man ;8.2;-1;-1;Portland, Oregon, USA
+Gigantic;Volta ;8.4;-1;-1;Portland, Oregon, USA
+Gigantic;Who Ate All the Pies? ;4.3;18;-1;Portland, Oregon, USA
+Gilgamesh;Fresh Prince of Ales;8.6;100;-1;Turner, Oregon, USA
+Gilgamesh;Hopscotch Ale;8.2;16;-1;Turner, Oregon, USA
+Gilgamesh;IPA;6;160;-1;Turner, Oregon, USA
+Gilgamesh;Mint Kolsch ;5.3;-1;-1;Turner, Oregon, USA
+Gilgamesh;Oedipus IPA;6.4;60;-1;Turner, Oregon, USA
+Golden Valley;American Pale Ale;5.2;35;-1;McMinnville, Oregon, USA
+Golden Valley;Atlas Elevator Bock;6.6;-1;-1;McMinnville, Oregon, USA
+Golden Valley;Bald Peak IPA ;6.2;75;-1;McMinnville, Oregon, USA
+Golden Valley;Chehalem Mountain IPA;6.1;55;-1;McMinnville, Oregon, USA
+Golden Valley;Cote dOr;6.3;22;-1;McMinnville, Oregon, USA
+Golden Valley;Erratic Rock Bitter;4.8;-1;-1;McMinnville, Oregon, USA
+Golden Valley;Geist Bock;6.1;31;-1;McMinnville, Oregon, USA
+Golden Valley;Grand Island Golden;3.6;15;-1;McMinnville, Oregon, USA
+Golden Valley;Indian Trail Ale;-1;-1;-1;McMinnville, Oregon, USA
+Golden Valley;Perrydale Pale Ale;3.6;10;-1;McMinnville, Oregon, USA
+Golden Valley;Red Hills Pils;4.9;38;-1;McMinnville, Oregon, USA
+Golden Valley;Red Thistle Ale;5;40;-1;McMinnville, Oregon, USA
+Golden Valley;Red Thistle Quercus ;5.8;38;-1;McMinnville, Oregon, USA
+Golden Valley;Tannen Bomb;8;60;-1;McMinnville, Oregon, USA
+Golden Valley;Young Franken Stein;5;34;-1;McMinnville, Oregon, USA
+GoodLife;29er India Brown Ale ;6;45;-1;Bend, Oregon, USA
+GoodLife;Comatose Imperial IPA ;9.5;95;-1;Bend, Oregon, USA
+GoodLife;Descender IPA;7;70;-1;Bend, Oregon, USA
+GoodLife;Mountain Rescue Pale Ale;5.5;40;-1;Bend, Oregon, USA
+GoodLife;Sweet As Pacific Ale;6;18;-1;Bend, Oregon, USA
+Grain Station;Bet The Farm IPA;6.5;85;-1;McMinnville, Oregon, USA
+Grain Station;Haystack Gold;4.5;15;-1;McMinnville, Oregon, USA
+Grain Station;Nut Red;5.4;45;-1;McMinnville, Oregon, USA
+Hair of the Dog;Adam;10;50;-1;Portland, Oregon, USA
+Hair of the Dog;Belgian Ale;-1;-1;-1;Portland, Oregon, USA
+Hair of the Dog;Blue Dot Imperial IPA;7;100;-1;Portland, Oregon, USA
+Hair of the Dog;Cherry Adam from the Wood ;13.5;-1;-1;Portland, Oregon, USA
+Hair of the Dog;Dave ;29;-1;-1;Portland, Oregon, USA
+Hair of the Dog;Doggie Claws ;11.5;70;-1;Portland, Oregon, USA
+Hair of the Dog;Fred;10;65;-1;Portland, Oregon, USA
+Hair of the Dog;Fred from the Wood;10;-1;-1;Portland, Oregon, USA
+Hair of the Dog;Jim (2008) ;9;-1;-1;Portland, Oregon, USA
+Hair of the Dog;Jim (2009) ;10;-1;-1;Portland, Oregon, USA
+Hair of the Dog;Matt ;11.5;-1;-1;Portland, Oregon, USA
+Hair of the Dog;Michael ;6.2;-1;-1;Portland, Oregon, USA
+Hair of the Dog;Rose;7.5;17;-1;Portland, Oregon, USA
+Hair of the Dog;Ruth;5.6;-1;-1;Portland, Oregon, USA
+Hawks;Imperial Gold Malt Liquor ;9.9;-1;-1;Roseburg, Oregon, USA
+Hawks;Super Natural ESB ;6.5;-1;-1;Roseburg, Oregon, USA
+Hawks;Super Natural IPA ;7;-1;-1;Roseburg, Oregon, USA
+Heater Allen;Abzug ;3.8;28;-1;McMinnville, Oregon, USA
+Heater Allen;Bobtoberfest ;5.4;26;-1;McMinnville, Oregon, USA
+Heater Allen;Coastal Common;5;36;-1;McMinnville, Oregon, USA
+Heater Allen;Dunkel;5.25;26;-1;McMinnville, Oregon, USA
+Heater Allen;Hugo ;6.25;-1;-1;McMinnville, Oregon, USA
+Heater Allen;Mediator ;7;40;-1;McMinnville, Oregon, USA
+Heater Allen;Pils;5;39;-1;McMinnville, Oregon, USA
+Heater Allen;Sandy Paws (2007) ;6.7;-1;-1;McMinnville, Oregon, USA
+Heater Allen;Sandy Paws (2009) ;6.25;36;-1;McMinnville, Oregon, USA
+Heater Allen;Schwarz;4.8;36;-1;McMinnville, Oregon, USA
+Henry Weinhards;Amber Light ;4.2;-1;-1;Hood River, Oregon, USA
+Henry Weinhards;Blonde (Northwest Trail);5.1;17.7;-1;Hood River, Oregon, USA
+Henry Weinhards;Blue Boar Pale Ale;4.6;14;-1;Hood River, Oregon, USA
+Henry Weinhards;Classic Dark;4.8;19.9;-1;Hood River, Oregon, USA
+Henry Weinhards;Organic Amber Premium Ale;5.25;21;-1;Hood River, Oregon, USA
+Henry Weinhards;Private Reserve;4.8;15;-1;Hood River, Oregon, USA
+Henry Weinhards;Redwood Flats Amber;5.2;-1;-1;Hood River, Oregon, USA
+Henry Weinhards;Woodland Pass IPA;6;45;-1;Hood River, Oregon, USA
+Hop Valley;541 Lager;4.8;13;-1;Springfield, Oregon, USA
+Hop Valley;Alpha Centauri Binary IPA;8.5;100;-1;Springfield, Oregon, USA
+Hop Valley;Alphadelic IPA;6.5;90;-1;Springfield, Oregon, USA
+Hop Valley;Citrus Mistress ;6.5;80;-1;Springfield, Oregon, USA
+Hop Valley;Czech Your Head Pils;5.6;-1;-1;Springfield, Oregon, USA
+Hop Valley;Double D Blonde;4.9;20;-1;Springfield, Oregon, USA
+Hop Valley;Eleven ;11;111;-1;Springfield, Oregon, USA
+Hop Valley;Elias Briggs Cream Ale ;5;25;-1;Springfield, Oregon, USA
+Hop Valley;Festeroo ;7.8;60;-1;Springfield, Oregon, USA
+Hop Valley;Golden Road Pale Ale;-1;-1;-1;Springfield, Oregon, USA
+Hop Valley;Impeller Pale Ale ;5.6;50;-1;Springfield, Oregon, USA
+Hop Valley;Natty Red;8;85;-1;Springfield, Oregon, USA
+Hop Valley;Operation Vacation ;5.5;30;-1;Springfield, Oregon, USA
+Hop Valley;Pollination Honey Ale ;6;-1;-1;Springfield, Oregon, USA
+Hop Valley;Stepchild Red;6.1;80;-1;Springfield, Oregon, USA
+Hopworks;Abominable Winter Ale ;7.3;70;-1;Portland, Oregon, USA
+Hopworks;Ace of Spades ;9.2;100;-1;Portland, Oregon, USA
+Hopworks;Belgian-Style Abbey Ale ;8.5;18;-1;Portland, Oregon, USA
+Hopworks;Belgian-Style Apple Ale ;5.8;4;-1;Portland, Oregon, USA
+Hopworks;Bike Beer IPA ;6;-1;-1;Portland, Oregon, USA
+Hopworks;Bike Beer Kolsch-Style Ale ;4.7;23;-1;Portland, Oregon, USA
+Hopworks;Crosstown Pale Ale;5.3;45;-1;Portland, Oregon, USA
+Hopworks;Cultivator Doppelbock ;7.5;-1;-1;Portland, Oregon, USA
+Hopworks;Deluxe Ale;6.9;-1;-1;Portland, Oregon, USA
+Hopworks;El Diablo ;8.9;-1;-1;Portland, Oregon, USA
+Hopworks;Evelyn's Sunshine Imperial IPA ;7.5;90;-1;Portland, Oregon, USA
+Hopworks;Fest of Fury ;5.6;-1;-1;Portland, Oregon, USA
+Hopworks;Give Me Liberty ;4.6;-1;-1;Portland, Oregon, USA
+Hopworks;HUB Lager;5.1;32;-1;Portland, Oregon, USA
+Hopworks;IPA;6.5;71;-1;Portland, Oregon, USA
+Hopworks;IPX Double Dry Hop ;6;60;-1;Portland, Oregon, USA
+Hopworks;IPX Single Hop - Ahtanum Hops ;6;60;-1;Portland, Oregon, USA
+Hopworks;IPX Single Hop - Amarillo  ;6;60;-1;Portland, Oregon, USA
+Hopworks;IPX Single Hop - Cascade ;6;60;-1;Portland, Oregon, USA
+Hopworks;Kentucky Christmas ;7;-1;-1;Portland, Oregon, USA
+Hopworks;Noggin Floggin  ;11;70;-1;Portland, Oregon, USA
+Hopworks;Pig War NW Style Ale ;8;80;-1;Portland, Oregon, USA
+Hopworks;Rise Up Red;5.79;60;-1;Portland, Oregon, USA
+Hopworks;Secession Black India Pale Ale ;6.5;-1;-1;Portland, Oregon, USA
+Hopworks;Velvet ESB;5.2;30;-1;Portland, Oregon, USA
+Karlsson;Pioneer Pilsner ;5.8;-1;-1;Sandy, Oregon, USA
+Karlsson;Revenue Rye ;5.5;-1;-1;Sandy, Oregon, USA
+Karlsson;Sock Knocker Scotch Ale ;8.6;-1;-1;Sandy, Oregon, USA
+Karlsson;St Nick's Sock Knocker Scotch Ale ;8.5;-1;-1;Sandy, Oregon, USA
+Karlsson;Wildcat IPA ;7.2;-1;-1;Sandy, Oregon, USA
+Kells;Billy Ray Citrus ;4.8;28;-1;Portland, Oregon, USA
+Kells;Irish Lager;4.5;-1;-1;Portland, Oregon, USA
+Kells;Irish Pale Ale;6.2;-1;-1;Portland, Oregon, USA
+Kells;Irish Red Ale;4.6;24;-1;Portland, Oregon, USA
+Klamath Basin;8 Second Ale;4.3;-1;-1;Klamath Falls, Oregon, USA
+Klamath Basin;Bare Island Blonde Ale;4.3;20;-1;Klamath Falls, Oregon, USA
+Klamath Basin;Breakfast Blend IPA ;5.9;50;-1;Klamath Falls, Oregon, USA
+Klamath Basin;Butt-Crack Brown;5.5;-1;-1;Klamath Falls, Oregon, USA
+Klamath Basin;Crater Lake Golden Ale;5.9;36;-1;Klamath Falls, Oregon, USA
+Klamath Basin;Headstrong Blonde;4.2;17;-1;Klamath Falls, Oregon, USA
+Klamath Basin;Lone Pine Double IPA;8.6;95;-1;Klamath Falls, Oregon, USA
+Klamath Basin;Migration Destination ;9.8;-1;-1;Klamath Falls, Oregon, USA
+Klamath Basin;Notch Eight IPA (Crystal Springs);7.1;62;-1;Klamath Falls, Oregon, USA
+Klamath Basin;Nutcracker ;-1;-1;-1;Klamath Falls, Oregon, USA
+Klamath Basin;Pelican Butte Pale Ale;5.6;44;-1;Klamath Falls, Oregon, USA
+Klamath Basin;Ranch House Red;-1;-1;-1;Klamath Falls, Oregon, USA
+Klamath Basin;Rebellion Red Ale (Drop Dead Red);5.9;52;-1;Klamath Falls, Oregon, USA
+Laurelwood;Bonaparte's Retreat ;8.2;48;-1;Portland, Oregon, USA
+Laurelwood;Boss IPA;6.7;70;-1;Portland, Oregon, USA
+Laurelwood;Deranger Imperial Red Ale;8;100;-1;Portland, Oregon, USA
+Laurelwood;Double Deranger ;9.6;-1;-1;Portland, Oregon, USA
+Laurelwood;Ettinger Amber Ale;5.3;22;-1;Portland, Oregon, USA
+Laurelwood;Framboise ;-1;-1;-1;Portland, Oregon, USA
+Laurelwood;Gearhead IPA;6.5;60;-1;Portland, Oregon, USA
+Laurelwood;Himmelbrau Helles ;5.1;-1;-1;Portland, Oregon, USA
+Laurelwood;Hooligan Brown;5.3;31;-1;Portland, Oregon, USA
+Laurelwood;Hop Bandito IPA ;7.1;70;-1;Portland, Oregon, USA
+Laurelwood;Hop Monkey IPA;6.4;60;-1;Portland, Oregon, USA
+Laurelwood;Imperial Workhorse IPA ;9.5;-1;-1;Portland, Oregon, USA
+Laurelwood;Ink Heart Cascadian Dark Ale ;7.3;60;-1;Portland, Oregon, USA
+Laurelwood;Mother Lode Golden Ale;5.1;20;-1;Portland, Oregon, USA
+Laurelwood;Organic Free Range Red;6.1;60;-1;Portland, Oregon, USA
+Laurelwood;Organic Goodness ;5.9;-1;-1;Portland, Oregon, USA
+Laurelwood;Organic Green Elephant ;6.1;-1;-1;Portland, Oregon, USA
+Laurelwood;Organic Green Mammoth Imperial IPA ;9;85;-1;Portland, Oregon, USA
+Laurelwood;Organic Pale Ale;5.1;32;-1;Portland, Oregon, USA
+Laurelwood;Pale Pony ISA ;4.5;35;-1;Portland, Oregon, USA
+Laurelwood;Piston Pale Ale;5.6;35;-1;Portland, Oregon, USA
+Laurelwood;PNW Pils ;8;40;-1;Portland, Oregon, USA
+Laurelwood;Portland Pale Project #15 Winter Pale Ale ;5.8;55;-1;Portland, Oregon, USA
+Laurelwood;Portlandia Pils ;5.5;50;-1;Portland, Oregon, USA
+Laurelwood;Prevale IPA;6.7;70;-1;Portland, Oregon, USA
+Laurelwood;Saison de Arduinna ;6.4;-1;-1;Portland, Oregon, USA
+Laurelwood;Strong Rye Ale;8;100;-1;Portland, Oregon, USA
+Laurelwood;Vinter Varmer ;6.4;49;-1;Portland, Oregon, USA
+Laurelwood;Weizenbock ;7;15;-1;Portland, Oregon, USA
+Laurelwood;Workhorse IPA;7.5;80;-1;Portland, Oregon, USA
+Laurelwood;Wry Pale Ale;5.6;40;-1;Portland, Oregon, USA
+Liberator;Golden Ale ;4;-1;-1;Troutdale, Oregon, USA
+Liberator;Guinea Pig Pale ;5;-1;-1;Troutdale, Oregon, USA
+Liberator;I.P.A. ;6.25;-1;-1;Troutdale, Oregon, USA
+Liberator;Lewis & Clark Dark ;-1;-1;-1;Troutdale, Oregon, USA
+Liberator;Naked Kernel IPA ;5.75;-1;-1;Troutdale, Oregon, USA
+Liberator;Sandy River Scottish Ale ;6.5;-1;-1;Troutdale, Oregon, USA
+Liberator;Train Wreck Triple ;11;-1;-1;Troutdale, Oregon, USA
+Logsdon;Aberrant ;8;-1;-1;Hood River, Oregon, USA
+Logsdon;Cerasus ;8.5;-1;-1;Hood River, Oregon, USA
+Logsdon;Far West Vlaming ;6.5;-1;-1;Hood River, Oregon, USA
+Logsdon;Peche 'n Brett;10;-1;-1;Hood River, Oregon, USA
+Logsdon;Seizoen;7.5;-1;-1;Hood River, Oregon, USA
+Logsdon;Seizoen Bretta;8;-1;-1;Hood River, Oregon, USA
+Logsdon;Straffe Drieling ;8.8;38;-1;Hood River, Oregon, USA
+Lompoc;Bourbon Barrel Aged Lompoc Strong Draft ;8.5;-1;-1;Portland, Oregon, USA
+Lompoc;C-Note;6.5;100;-1;Portland, Oregon, USA
+Lompoc;C-Sons Greetings ;8;-1;-1;Portland, Oregon, USA
+Lompoc;Centennial IPA;6;-1;-1;Portland, Oregon, USA
+Lompoc;Condor Pale Ale ;5.2;33;-1;Portland, Oregon, USA
+Lompoc;Dagda Irish Red;7.5;-1;-1;Portland, Oregon, USA
+Lompoc;Flowers of the Gods;5.6;-1;-1;Portland, Oregon, USA
+Lompoc;Fools Golden Ale;5;-1;-1;Portland, Oregon, USA
+Lompoc;Fresh Hop Harvest Man Red ;6.2;-1;-1;Portland, Oregon, USA
+Lompoc;Heavens Helles ;4.5;-1;-1;Portland, Oregon, USA
+Lompoc;India Pale Ale;6;-1;-1;Portland, Oregon, USA
+Lompoc;Kick Axe ;5.2;32;-1;Portland, Oregon, USA
+Lompoc;Le Diablesse ;7;-1;-1;Portland, Oregon, USA
+Lompoc;Millenium IIPA ;7.5;-1;-1;Portland, Oregon, USA
+Lompoc;Mon Cheri ;6.5;-1;-1;Portland, Oregon, USA
+Lompoc;Old Tavern Rat ;9;-1;-1;Portland, Oregon, USA
+Lompoc;Pamplemousse Citrus IPA ;5.8;70;-1;Portland, Oregon, USA
+Lompoc;Proletariat Red;6.2;69;-1;Portland, Oregon, USA
+Lompoc;Strong Draft (LSD);6.9;-1;-1;Portland, Oregon, USA
+Lompoc;Summer Aid ;5.5;19;-1;Portland, Oregon, USA
+Long Brewing;Blonde Ale ;5.2;-1;-1;Newberg, Oregon, USA
+Long Brewing;IPA;6.2;-1;-1;Newberg, Oregon, USA
+Long Brewing;Kolsch Style;5.5;-1;-1;Newberg, Oregon, USA
+Long Brewing;Linda's Lager;4;-1;-1;Newberg, Oregon, USA
+Long Brewing;Vienna Style Lager ;6.2;-1;-1;Newberg, Oregon, USA
+Long Brewing;Wee Heavy ;7.5;-1;-1;Newberg, Oregon, USA
+Lucky Labrador;Anchors Away Steam Beer;5.5;48;-1;Portland, Oregon, USA
+Lucky Labrador;Bavarian Lager;5.4;45;-1;Portland, Oregon, USA
+Lucky Labrador;Blue Dog Pale Ale;4.8;35;-1;Portland, Oregon, USA
+Lucky Labrador;Crazy Foyston's Alt ;6;65;-1;Portland, Oregon, USA
+Lucky Labrador;Crazy Ludwigs Alt;5.7;55;-1;Portland, Oregon, USA
+Lucky Labrador;Dark Dog Dunkel Rye;5.2;30;-1;Portland, Oregon, USA
+Lucky Labrador;Dog Day IPA;5;55;-1;Portland, Oregon, USA
+Lucky Labrador;Got Hops?;5.3;-1;-1;Portland, Oregon, USA
+Lucky Labrador;Hawthornes Best Bitter;4.5;26;-1;Portland, Oregon, USA
+Lucky Labrador;Hopperopolis ;4.8;108;-1;Portland, Oregon, USA
+Lucky Labrador;Malt Bomb ;6.7;-1;-1;Portland, Oregon, USA
+Lucky Labrador;Open Bridge Brown Ale;5;29;-1;Portland, Oregon, USA
+Lucky Labrador;Organic Golden Ale (OGA);3.8;26;-1;Portland, Oregon, USA
+Lucky Labrador;Quality Rye ;4.4;15;-1;Portland, Oregon, USA
+Lucky Labrador;Reggies Red;5.1;30;-1;Portland, Oregon, USA
+Lucky Labrador;Scottish Holiday Ale;6.4;27;-1;Portland, Oregon, USA
+Lucky Labrador;Solar Flare Ale;5.1;33;-1;Portland, Oregon, USA
+Lucky Labrador;Super Dog ;6.4;50;-1;Portland, Oregon, USA
+Lucky Labrador;The Mutt;-1;-1;-1;Portland, Oregon, USA
+Lucky Labrador;Top Dog Extra Special Pale Ale;5.2;-1;-1;Portland, Oregon, USA
+Lucky Labrador;Triple Threat IPA;6.1;65;-1;Portland, Oregon, USA
+MacTarnahans;Amber Ale (Macs Ale);5.2;33;-1;Portland, Oregon, USA
+MacTarnahans;Fresh Hops Amber Ale ;-1;-1;-1;Portland, Oregon, USA
+MacTarnahans;Highlander Pale;4.7;22;-1;Portland, Oregon, USA
+MacTarnahans;IPA;6.5;50;-1;Portland, Oregon, USA
+MacTarnahans;Lip Stinger ;4.8;32;-1;Portland, Oregon, USA
+MacTarnahans;Mac Frost Winter Ale ;6;45;-1;Portland, Oregon, USA
+MacTarnahans;Noble Scot ;6.5;25;-1;Portland, Oregon, USA
+MacTarnahans;Portland Ale;4.7;26;-1;Portland, Oregon, USA
+MacTarnahans;Sling Shot Extra Pale Ale;6.2;30;-1;Portland, Oregon, USA
+MacTarnahans;Spine Tingler;8.5;23;-1;Portland, Oregon, USA
+MacTarnahans;Summer Grifter India Pale Ale ;6.2;54;-1;Portland, Oregon, USA
+MacTarnahans;Uncle Ottos Oktoberfest ;6.2;22;-1;Portland, Oregon, USA
+Mash Tun;Alberta Pale Ale;-1;-1;-1;Portland, Oregon, USA
+Mash Tun;Bohemian Pilsner;-1;-1;-1;Portland, Oregon, USA
+Mash Tun;Hunny Blonde;-1;-1;-1;Portland, Oregon, USA
+Mash Tun;Inclusion Amber;-1;-1;-1;Portland, Oregon, USA
+Mash Tun;Portside IPA;-1;-1;-1;Portland, Oregon, USA
+Maxs;Belgian Dubbel;6;-1;-1;Tigard, Oregon, USA
+Maxs;Belgian IPA;5.5;-1;-1;Tigard, Oregon, USA
+Maxs;Belgian Trippel ;9;-1;-1;Tigard, Oregon, USA
+Maxs;Farmers Daughter;6.5;27;-1;Tigard, Oregon, USA
+Maxs;Gluteus Maximus ;11;-1;-1;Tigard, Oregon, USA
+Maxs;Golden Ale;5;-1;-1;Tigard, Oregon, USA
+Maxs;IPA;5.5;-1;-1;Tigard, Oregon, USA
+Maxs;IPA NW;5.5;-1;-1;Tigard, Oregon, USA
+Maxs;Political Pilsner;5;-1;-1;Tigard, Oregon, USA
+Maxs;Scottish 100 Schilling;6.5;-1;-1;Tigard, Oregon, USA
+Maxs;Scottish 90 Schilling;5.2;-1;-1;Tigard, Oregon, USA
+Maxs;The Reverends Daughter ;7;-1;-1;Tigard, Oregon, USA
+Mazama;Belgian Style Blonde Ale;7.7;20;-1;Corvallis, Oregon, USA
+Mazama;Belgian Style Dubbel;8.4;23;-1;Corvallis, Oregon, USA
+Mazama;Dubbelganger ;8.4;-1;-1;Corvallis, Oregon, USA
+Mazama;Grand Cru;10;26;-1;Corvallis, Oregon, USA
+Mazama;Hop Eruption;6.8;75;-1;Corvallis, Oregon, USA
+Mazama;Mazamanator ;9.9;30;-1;Corvallis, Oregon, USA
+Mazama;Saison D'Etre;6.5;25;-1;Corvallis, Oregon, USA
+Mazama;Sour Sunrise ;7.5;-1;-1;Corvallis, Oregon, USA
+Mazama;White Wedding;5.2;55;-1;Corvallis, Oregon, USA
+McMenamins;A.D. Local 13 Cream Ale (Nitro Only);-1;-1;-1;Portland, Oregon, USA
+McMenamins;Bagdad Ale;5;-1;-1;Portland, Oregon, USA
+McMenamins;Blind Abbot ;7;-1;-1;Portland, Oregon, USA
+McMenamins;Bronwen's Best Bitter;-1;-1;-1;Portland, Oregon, USA
+McMenamins;Cascade Head;3.5;-1;-1;Portland, Oregon, USA
+McMenamins;Copper Moon ;5;-1;-1;Portland, Oregon, USA
+McMenamins;Crystal Ale;4;-1;-1;Portland, Oregon, USA
+McMenamins;Dark Star Cascadian Dark Ale;8;-1;-1;Portland, Oregon, USA
+McMenamins;Double Helix ;8.5;100;-1;Portland, Oregon, USA
+McMenamins;Firefly Kolsch ;4.64;-1;-1;Portland, Oregon, USA
+McMenamins;Fox Tale Pale Ale;-1;-1;-1;Portland, Oregon, USA
+McMenamins;Gulden Tijger Biere Speciale ;8.4;-1;-1;Portland, Oregon, USA
+McMenamins;Hammerhead Ale;4.7;-1;-1;Portland, Oregon, USA
+McMenamins;Happy Planet Organic Gold;-1;-1;-1;Portland, Oregon, USA
+McMenamins;India Pale Ale;-1;-1;-1;Portland, Oregon, USA
+McMenamins;Knuckeball Rye;-1;-1;-1;Portland, Oregon, USA
+McMenamins;Kris Kringle Holiday Ale ;4.8;-1;-1;Portland, Oregon, USA
+McMenamins;Nebraska Bitter;4.6;-1;-1;Portland, Oregon, USA
+McMenamins;Northwest Scotch Ale;-1;-1;-1;Portland, Oregon, USA
+McMenamins;Old Bushwacker ;-1;-1;-1;Portland, Oregon, USA
+McMenamins;Premier IPA;-1;-1;-1;Portland, Oregon, USA
+McMenamins;Rail to the Chief;-1;-1;-1;Portland, Oregon, USA
+McMenamins;Recession Imperial Red ;9;-1;-1;Portland, Oregon, USA
+McMenamins;Red Dwarf Kriek;-1;-1;-1;Portland, Oregon, USA
+McMenamins;Red Rover;-1;-1;-1;Portland, Oregon, USA
+McMenamins;Rooster Rock IPA;-1;-1;-1;Portland, Oregon, USA
+McMenamins;Scarecrow ESB ;4.77;-1;-1;Portland, Oregon, USA
+McMenamins;Sleepy Hollow Nut Brown ;4.9;-1;-1;Portland, Oregon, USA
+McMenamins;Sunflower IPA;-1;-1;-1;Portland, Oregon, USA
+McMenamins;Workingman's Red ;4.77;-1;-1;Portland, Oregon, USA
+McMenamins;Yaquina Bay IPA;-1;-1;-1;Portland, Oregon, USA
+Metolius;Brookie Pale Ale;5.4;31;-1;Portland, Oregon, USA
+Metolius;Damsel Fly Blonde Ale;-1;-1;-1;Portland, Oregon, USA
+Metolius;Dolly Varden India Pale Ale;-1;-1;-1;Portland, Oregon, USA
+Metolius;Golden Stone Amber Ale;5.1;18;-1;Portland, Oregon, USA
+Mia and Pias;All American Pale Ale;5.2;-1;-1;Klamath Falls, Oregon, USA
+Mia and Pias;Applegate Trail Pale Ale;4.6;-1;-1;Klamath Falls, Oregon, USA
+Mia and Pias;Blast Off Barley Wine;10.5;-1;-1;Klamath Falls, Oregon, USA
+Mia and Pias;Emmett & Annas Pivo;4.4;-1;-1;Klamath Falls, Oregon, USA
+Mia and Pias;Espresso Brown Ale;4.5;-1;-1;Klamath Falls, Oregon, USA
+Mia and Pias;Flash Flood E.S.B.;4.8;-1;-1;Klamath Falls, Oregon, USA
+Mia and Pias;IPA;6.7;-1;-1;Klamath Falls, Oregon, USA
+Mia and Pias;Irrigator Dopplebock;8;-1;-1;Klamath Falls, Oregon, USA
+Mia and Pias;Linkville Lager;3.8;-1;-1;Klamath Falls, Oregon, USA
+Mia and Pias;Merrill Marzen ;4.5;-1;-1;Klamath Falls, Oregon, USA
+Mia and Pias;ND Dairy Golden Ale;7;-1;-1;Klamath Falls, Oregon, USA
+Mia and Pias;Nut Brown Ale;4.5;-1;-1;Klamath Falls, Oregon, USA
+Mia and Pias;Rods Rodeo Red;4.7;-1;-1;Klamath Falls, Oregon, USA
+Mia and Pias;Spring Lake Amber Lager;4.4;-1;-1;Klamath Falls, Oregon, USA
+Mia and Pias;Winterized Vienna Lager;7;-1;-1;Klamath Falls, Oregon, USA
+Migration;Black Hearted Ale ;7.7;67;-1;Portland, Oregon, USA
+Migration;Clems Cream;4.6;22;-1;Portland, Oregon, USA
+Migration;Glisan Street Dry Hop Pale Ale ;5;33;-1;Portland, Oregon, USA
+Migration;Lucious Lupulin;6.5;77;-1;Portland, Oregon, USA
+Migration;Old Silenus;6.3;75;-1;Portland, Oregon, USA
+Migration;Pale Ale (MPA);5.2;56;-1;Portland, Oregon, USA
+Migration;PDX Kolsch;4.3;27;-1;Portland, Oregon, USA
+Migration;Red Bier ;5.7;-1;-1;Portland, Oregon, USA
+Mt Hood;Cloud Cap Amber Ale;5;-1;-1;Government Camp, Oregon, USA
+Mt Hood;Highland Meadow Blonde Ale;3.8;-1;-1;Government Camp, Oregon, USA
+Mt Hood;Ice Axe IPA;5.9;-1;-1;Government Camp, Oregon, USA
+Mt Hood;Imperial IPA ;7.5;-1;-1;Government Camp, Oregon, USA
+Mt Hood;Old Battleaxe;11;-1;-1;Government Camp, Oregon, USA
+Mt Hood;Pinnacle ESB;-1;-1;-1;Government Camp, Oregon, USA
+Mt Hood;Pittock Wee Heavy Scotch Ale;8.5;-1;-1;Government Camp, Oregon, USA
+Mt. Angel;Angel Ale ;-1;-1;-1;Mount Angel, Oregon, USA
+Mt. Angel;Pilsner ;-1;-1;-1;Mount Angel, Oregon, USA
+Mt. Emily Ale House;Double IPA;8;150;-1;La Grande, Oregon, USA
+Mt. Emily Ale House;Hells Canyon IPA;5.8;100;-1;La Grande, Oregon, USA
+Mt. Emily Ale House;Oregon Blonde Ale;5.67;17;-1;La Grande, Oregon, USA
+Mt. Emily Ale House;The Big;5.6;64;-1;La Grande, Oregon, USA
+Mt. Emily Ale House;Wild Flower Red;7.6;55;-1;La Grande, Oregon, USA
+Natian;Big Block IPA;6.8;-1;-1;Portland, Oregon, USA
+Natian;CuDA Cascadian Dark Ale ;7.4;-1;-1;Portland, Oregon, USA
+Natian;Destinatian Honey Red;5.1;-1;-1;Portland, Oregon, USA
+Natian;Old Grogham Winter IPA ;8.5;86;-1;Portland, Oregon, USA
+Natian;Portland Fog;6.8;40;-1;Portland, Oregon, USA
+Natian;UnDun Blonde Ale;5.3;-1;-1;Portland, Oregon, USA
+Ninkasi;Babylon Double IPA;9.1;100;-1;Eugene, Oregon, USA
+Ninkasi;Believer Double Red;6.9;60;-1;Eugene, Oregon, USA
+Ninkasi;Ceridwen Harvest Lager ;5;-1;-1;Eugene, Oregon, USA
+Ninkasi;Critical Hit Barley Wine;11.7;100;-1;Eugene, Oregon, USA
+Ninkasi;Dawn of the Red IRA Ale ;7;75;-1;Eugene, Oregon, USA
+Ninkasi;Expo 58 ;5;20;-1;Eugene, Oregon, USA
+Ninkasi;Fresh Hop Ale ;5;-1;-1;Eugene, Oregon, USA
+Ninkasi;Helles Belles;5.1;22;-1;Eugene, Oregon, USA
+Ninkasi;Lady of Avalon ;5.2;20;-1;Eugene, Oregon, USA
+Ninkasi;Little One;5.7;22;-1;Eugene, Oregon, USA
+Ninkasi;Maiden the Shade ;6.8;72;-1;Eugene, Oregon, USA
+Ninkasi;Nugg E. Fresh ;5.8;35;-1;Eugene, Oregon, USA
+Ninkasi;Nuptiale Cream Ale ;5.6;28;-1;Eugene, Oregon, USA
+Ninkasi;Oktoberfestbier ;6;25;-1;Eugene, Oregon, USA
+Ninkasi;Pravda Bohemian Pils ;5;38;-1;Eugene, Oregon, USA
+Ninkasi;Quantum Pale;5.6;35;-1;Eugene, Oregon, USA
+Ninkasi;Radiant Summer ;6;40;-1;Eugene, Oregon, USA
+Ninkasi;ReNewAle Irish Red Ale ;5.2;40;-1;Eugene, Oregon, USA
+Ninkasi;Sleighr ;7.2;50;-1;Eugene, Oregon, USA
+Ninkasi;Spank Dog Ale;-1;-1;-1;Eugene, Oregon, USA
+Ninkasi;Spring Reign ;6;-1;-1;Eugene, Oregon, USA
+Ninkasi;Sterling Pils;5.1;30;-1;Eugene, Oregon, USA
+Ninkasi;Total Domination IPA;6.7;65;-1;Eugene, Oregon, USA
+Ninkasi;Tricerahops Double IPA ;8.8;100;-1;Eugene, Oregon, USA
+Ninkasi;Venn ;5.1;25;-1;Eugene, Oregon, USA
+North Rim;Singletrack IPA;6.3;70;-1;Bend, Oregon, USA
+North Rim;Skyline;5.8;26;-1;Bend, Oregon, USA
+NorWester;Oregon Pale Ale ;5.5;46;-1;Portland, Oregon, USA
+Oakshire;Amber;5.4;30;-1;Eugene, Oregon, USA
+Oakshire;Barleywine 2013 ;10.1;88;-1;Eugene, Oregon, USA
+Oakshire;Citrafonix ;5.5;35;-1;Eugene, Oregon, USA
+Oakshire;Daily Dose Summer Ale ;4.9;20;-1;Eugene, Oregon, USA
+Oakshire;Harvest Ale ;6.5;55;-1;Eugene, Oregon, USA
+Oakshire;Ill-Tempered Gnome ;6.8;65;-1;Eugene, Oregon, USA
+Oakshire;Imperial IPA (Perfect Storm);8.4;-1;-1;Eugene, Oregon, USA
+Oakshire;Line Dry Rye ;5.5;-1;-1;Eugene, Oregon, USA
+Oakshire;ODark:30 Cascadian Dark Ale ;6.3;70;-1;Eugene, Oregon, USA
+Oakshire;Watershed IPA;7.1;75;-1;Eugene, Oregon, USA
+Occidental;Altbier;5.5;-1;-1;Portland, Oregon, USA
+Occidental;Dunkel;5.1;-1;-1;Portland, Oregon, USA
+Occidental;Festbier 2011 ;6;-1;-1;Portland, Oregon, USA
+Occidental;Kolsch (Cloudy Summer);4.4;-1;-1;Portland, Oregon, USA
+Occidental;Lucubrator Doppelbock;6.75;-1;-1;Portland, Oregon, USA
+Off the Rail;Derail Pale Ale;-1;-1;-1;Forest Grove, Oregon, USA
+Off the Rail;Mad Man IPA;7;-1;-1;Forest Grove, Oregon, USA
+Off the Rail;Paranoid IPA;-1;-1;-1;Forest Grove, Oregon, USA
+Off the Rail;Sweetleaf Amber;-1;-1;-1;Forest Grove, Oregon, USA
+Old Market;British Bombay I.P.A.;6.7;80;-1;Portland, Oregon, USA
+Old Market;Hop On!;5;87;-1;Portland, Oregon, USA
+Old Market;Imperial Hop On ;7.94;-1;-1;Portland, Oregon, USA
+Old Market;Malt Madness Scotch Ale;6.6;-1;-1;Portland, Oregon, USA
+Old Market;Mr. Toads Wild Red Ale;6.2;50;-1;Portland, Oregon, USA
+Old Market;Multnomah Village Golden Ale;4.4;20;-1;Portland, Oregon, USA
+Old Market;Permagrin Pilsner ;-1;-1;-1;Portland, Oregon, USA
+Old Market;Pinochle Pale Ale;-1;-1;-1;Portland, Oregon, USA
+Old Market;Rat Dog ESB;5.93;35;-1;Portland, Oregon, USA
+Old Market;The Kraken Imperial IPA ;8.9;103;-1;Portland, Oregon, USA
+Old Town;Shanghai'd IPA;6.2;65;-1;Portland, Oregon, USA
+Old Town;Union Pilsner;5.3;35;-1;Portland, Oregon, USA
+Old Town;Vanport Pale Ale;5.5;45;-1;Portland, Oregon, USA
+Old Town;Yosteamite Sam ;5.2;30;-1;Portland, Oregon, USA
+Oregon Trader;Asher Amber ;5;-1;-1;Albany, Oregon, USA
+Oregon Trader;Bar-Lee-Wine ;11;-1;-1;Albany, Oregon, USA
+Oregon Trader;Highlander Red Scotch Ale ;6.3;-1;-1;Albany, Oregon, USA
+Oregon Trader;Hop Harvest Rye ;6;-1;-1;Albany, Oregon, USA
+Oregon Trader;Nutty Brown ;5;-1;-1;Albany, Oregon, USA
+Oregon Trader;Something Light ;3.5;-1;-1;Albany, Oregon, USA
+Oregon Trail;Beaver Tail;4.5;-1;-1;Corvallis, Oregon, USA
+Oregon Trail;Brown Ale;4.8;-1;-1;Corvallis, Oregon, USA
+Oregon Trail;IPA;-1;-1;-1;Corvallis, Oregon, USA
+Pale Horse;Hillbilly Blonde;4.4;-1;-1;Salem, Oregon, USA
+Pale Horse;Hopyard Dog IPA;7.2;-1;-1;Salem, Oregon, USA
+Pale Horse;Mystic Wolf Amber;6;-1;-1;Salem, Oregon, USA
+Pelican;Anglers Amber Ale ;6.7;35;-1;Pacific City, Oregon, USA
+Pelican;Ankle-Buster Ale ;5.4;35;-1;Pacific City, Oregon, USA
+Pelican;Bad Santa ;6.7;70;-1;Pacific City, Oregon, USA
+Pelican;Biere de Garde ;6.5;25;-1;Pacific City, Oregon, USA
+Pelican;Bridal Ale ;6.5;25;-1;Pacific City, Oregon, USA
+Pelican;Dirty Bird ;7.5;-1;-1;Pacific City, Oregon, USA
+Pelican;Dorymans Dark Ale;5.8;42;-1;Pacific City, Oregon, USA
+Pelican;Elemental Ale ;6.5;75;-1;Pacific City, Oregon, USA
+Pelican;Grand Cru de Pelican ;9.5;24;-1;Pacific City, Oregon, USA
+Pelican;Imperial Pelican;8;-1;-1;Pacific City, Oregon, USA
+Pelican;India Pelican Ale;7.5;85;-1;Pacific City, Oregon, USA
+Pelican;Kiwanda Cream Ale;5.1;25;-1;Pacific City, Oregon, USA
+Pelican;MacPelicans Scottish Style Ale;4.7;18;-1;Pacific City, Oregon, USA
+Pelican;MacPelicans Wee Heavy;8;24;-1;Pacific City, Oregon, USA
+Pelican;Mother of all Storms ;13.5;40;-1;Pacific City, Oregon, USA
+Pelican;Nestucca ESB;5.4;-1;-1;Pacific City, Oregon, USA
+Pelican;Phil's Pils;5.7;40;-1;Pacific City, Oregon, USA
+Pelican;Red Lantern IPA ;6.4;60;-1;Pacific City, Oregon, USA
+Pelican;Riptide Red Ale ;5.3;25;-1;Pacific City, Oregon, USA
+Pelican;Saison du Pelican ;6.8;30;-1;Pacific City, Oregon, USA
+Pelican;Silverspot IPA;6;55;-1;Pacific City, Oregon, USA
+Pelican;Stormwatchers Winterfest 2006 ;13.3;40;-1;Pacific City, Oregon, USA
+Pelican;Stormwatchers Winterfest 2010 ;13;31;-1;Pacific City, Oregon, USA
+Pelican;Surfers Summer Ale ;5.5;26;-1;Pacific City, Oregon, USA
+Pelican;Umbrella ;7.4;60;-1;Pacific City, Oregon, USA
+pFriem;Belgian IPA;9;40;-1;Hood River, Oregon, USA
+pFriem;Belgian Strong Blonde;7.5;30;-1;Hood River, Oregon, USA
+pFriem;Belgian Strong Dark;10.25;38;-1;Hood River, Oregon, USA
+pFriem;Belgian Tripel ;9.5;40;-1;Hood River, Oregon, USA
+pFriem;Blond IPA;6.25;50;-1;Hood River, Oregon, USA
+pFriem;Down Under IPA;7.2;65;-1;Hood River, Oregon, USA
+pFriem;IPA;7.2;65;-1;Hood River, Oregon, USA
+pFriem;Little Saison ;4.5;24;-1;Hood River, Oregon, USA
+pFriem;Mosaic Pale;6.3;-1;-1;Hood River, Oregon, USA
+Phat Matt's;Golden Ale;6;24;-1;Redmond, Oregon, USA
+Phat Matt's;IPA;7;64;-1;Redmond, Oregon, USA
+Phat Matt's;Red;6.5;50;-1;Redmond, Oregon, USA
+Phat Matt's;Kolsch;4.7;-1;-1;Redmond, Oregon, USA
+Phat Matt's;White IPA Ale;5;60;-1;Redmond, Oregon, USA
+Philadelphias;Ben Franklin Brown;5.5;-1;-1;Portland, Oregon, USA
+Philadelphias;Betsy Ross Golden Ale;4.5;-1;-1;Portland, Oregon, USA
+Philadelphias;Flemish Brown ;5.5;-1;-1;Portland, Oregon, USA
+Philadelphias;Hop Ale;6;-1;-1;Portland, Oregon, USA
+Philadelphias;Independence Pale Ale;-1;-1;-1;Portland, Oregon, USA
+Philadelphias;Spectrum Amber;4.5;-1;-1;Portland, Oregon, USA
+Pints;Brick House Blonde;5;18;-1;Portland, Oregon, USA
+Pints;Hibernator Weizendoppelbock;7.6;18;-1;Portland, Oregon, USA
+Pints;Hot Flash Pale Ale;5;35;-1;Portland, Oregon, USA
+Pints;Rip Saw Red;6.5;60;-1;Portland, Oregon, USA
+Pints;Seismic IPA;6.2;75;-1;Portland, Oregon, USA
+Portland Brewing;Benchmark Old Ale ;9.4;30;-1;Portland, Oregon, USA
+Portland Brewing;Full Bloom ;6.3;35;-1;Portland, Oregon, USA
+Portland Brewing;IPA;6.5;70;-1;Portland, Oregon, USA
+Portland Brewing;Oregon Honey Beer (MacTarnahans) ;4.8;17;-1;Portland, Oregon, USA
+Portland Brewing;Zig Zag River Lager ;5.1;25;-1;Portland, Oregon, USA
+Prodigal Son;Beer Named Sue;5.4;10;-1;Pendleton, Oregon, USA
+Prodigal Son;Bride of Splendor;5.9;28;-1;Pendleton, Oregon, USA
+Prodigal Son;East Brown & Down ;6;30;-1;Pendleton, Oregon, USA
+Prodigal Son;Ella India Pale Ale;7.9;66;-1;Pendleton, Oregon, USA
+Prodigal Son;Little Magic Pale Ale;6;50;-1;Pendleton, Oregon, USA
+Prodigal Son;Neuer Morgan;8.1;12;-1;Pendleton, Oregon, USA
+Prodigal Son;Righteous Indignation ;6.2;18;-1;Pendleton, Oregon, USA
+Prodigal Son;Solidarity Alt;6;40;-1;Pendleton, Oregon, USA
+Prodigal Son;Splendor In The Glass ;6.4;45;-1;Pendleton, Oregon, USA
+Prodigal Son;VelociRapture;6.3;20;-1;Pendleton, Oregon, USA
+Raccoon Lodge;Bad Billy Blond Bock;6.2;40;-1;Portland, Oregon, USA
+Raccoon Lodge;Celtic Copper;5.3;-1;-1;Portland, Oregon, USA
+Raccoon Lodge;Defroster Scottish Ale;5.2;-1;-1;Portland, Oregon, USA
+Raccoon Lodge;Imperial English IPA;7;-1;-1;Portland, Oregon, USA
+Raccoon Lodge;IPA;5;-1;-1;Portland, Oregon, USA
+Raccoon Lodge;Oak-Aged Imperial IPA;7.5;-1;-1;Portland, Oregon, USA
+Raccoon Lodge;Ring Tail Pale Ale;4.1;-1;-1;Portland, Oregon, USA
+Raccoon Lodge;Temper Triple;8.5;-1;-1;Portland, Oregon, USA
+Red Tank;Happy Cider;5.5;-1;-1;Bend, Oregon, USA
+Rock Bottom;Floreal Deux ;6.5;-1;-1;Portland, Oregon, USA
+Rock Bottom;Kolsch 55;5.5;28;-1;Portland, Oregon, USA
+Rock Bottom;Oregonic Amber;-1;-1;-1;Portland, Oregon, USA
+Rock Bottom;Sunny Day IPA;-1;-1;-1;Portland, Oregon, USA
+Rock Bottom;Swan Island Lager;-1;-1;-1;Portland, Oregon, USA
+Rogue;21 ;8;30;-1;Newport, Oregon, USA
+Rogue;22 ;6.5;40;-1;Newport, Oregon, USA
+Rogue;American Amber Ale (Sea Otter) (Red Fox);5.1;53;-1;Newport, Oregon, USA
+Rogue;Beard Beer ;5.6;25;-1;Newport, Oregon, USA
+Rogue;Brewer ;7.5;-1;-1;Newport, Oregon, USA
+Rogue;Brutal Bitter (Brutal IPA) (Portland State IPA);6;59;-1;Newport, Oregon, USA
+Rogue;Captain Sigs Deadliest Ale (Northwestern Ale) ;6.2;80;-1;Newport, Oregon, USA
+Rogue;Dad's Little Helper Malt Liquor ;7.2;25;-1;Newport, Oregon, USA
+Rogue;Dads Little Helper Black IPA;6.8;70;-1;Newport, Oregon, USA
+Rogue;Dead Guy Ale (White Crane);6.6;30;-1;Newport, Oregon, USA
+Rogue;Doppelsticke ;8.5;52;-1;Newport, Oregon, USA
+Rogue;Double Dead Guy ;9.5;60;-1;Newport, Oregon, USA
+Rogue;Dry Hopped St. Rogue Red Ale;5.2;44;-1;Newport, Oregon, USA
+Rogue;Farms Honey Kolsch;4.8;26;-1;Newport, Oregon, USA
+Rogue;FestiveAle ;6.2;18;-1;Newport, Oregon, USA
+Rogue;Glen ;8.7;74;-1;Newport, Oregon, USA
+Rogue;HazelNut Brown Nectar (Morimoto Hazelnut);6.22;33;-1;Newport, Oregon, USA
+Rogue;Honey Cream Ale;4.8;30;-1;Newport, Oregon, USA
+Rogue;Hop Heaven ;7;-1;-1;Newport, Oregon, USA
+Rogue;Imperial India Pale Ale;8.4;53;-1;Newport, Oregon, USA
+Rogue;Imperial Pale Ale (I2PA);9.5;53;-1;Newport, Oregon, USA
+Rogue;Imperial Youngers Special Bitter ;7.4;52;-1;Newport, Oregon, USA
+Rogue;John John Ale (Juniper) ;5.2;32;-1;Newport, Oregon, USA
+Rogue;John John Dead Guy Ale ;6.5;40;-1;Newport, Oregon, USA
+Rogue;Kells Irish Style Lager;-1;25;-1;Newport, Oregon, USA
+Rogue;Love and Hoppiness ;5.83;74.3;-1;Newport, Oregon, USA
+Rogue;Mogul Madness ;6.6;58;-1;Newport, Oregon, USA
+Rogue;Monk Madness ;7.4;108;-1;Newport, Oregon, USA
+Rogue;Morimoto Imperial Pilsner ;8.7;74;-1;Newport, Oregon, USA
+Rogue;Old Crustacean;10.5;120;-1;Newport, Oregon, USA
+Rogue;One Brew Over The Cuckoos Nest Ale ;9;40;-1;Newport, Oregon, USA
+Rogue;Oregon Golden Ale (Shark Tooth Ale);5;34;-1;Newport, Oregon, USA
+Rogue;Saint Rogue Red;5.2;44;-1;Newport, Oregon, USA
+Rogue;Santas Private Reserve ;6;65;-1;Newport, Oregon, USA
+Rogue;Schwarzbier;5;30;-1;Newport, Oregon, USA
+Rogue;Seahorse Pale Ale;5.7;-1;-1;Newport, Oregon, USA
+Rogue;Sesquicentennial Ale ;6.3;-1;-1;Newport, Oregon, USA
+Rogue;Ten Thousand Brew Ale (Brew 10,000) ;10;83;-1;Newport, Oregon, USA
+Rogue;Uber Pilsner;5.6;35;-1;Newport, Oregon, USA
+Rogue;Yellow Snow ;6.2;70;-1;Newport, Oregon, USA
+Rogue;Youngers Special Bitter;4.8;35;-1;Newport, Oregon, USA
+Roots Organic;Burghead Heather Ale ;5.5;-1;-1;Portland, Oregon, USA
+Roots Organic;East Side Abbey Ale ;6.5;-1;-1;Portland, Oregon, USA
+Roots Organic;English Strong Bitter ;7.2;65;-1;Portland, Oregon, USA
+Roots Organic;Epic Ale ;14;80;-1;Portland, Oregon, USA
+Roots Organic;Farmhouse Bruin ;6;-1;-1;Portland, Oregon, USA
+Roots Organic;Festivus Olde Ale ;7.5;-1;-1;Portland, Oregon, USA
+Roots Organic;Flanders Red ;9.2;-1;-1;Portland, Oregon, USA
+Roots Organic;Fresh HOP-opotamus ;-1;-1;-1;Portland, Oregon, USA
+Roots Organic;Gruit Kolsch ;5.5;-1;-1;Portland, Oregon, USA
+Roots Organic;Island Red ;5.6;62.5;-1;Portland, Oregon, USA
+Roots Organic;Mutha Pucker Belgian Sour ;11;-1;-1;Portland, Oregon, USA
+Roots Organic;Pond Turtle Pale Ale ;5.3;35;-1;Portland, Oregon, USA
+Roots Organic;Sharkbite Imperial IPA ;-1;-1;-1;Portland, Oregon, USA
+Roots Organic;Woody IPA ;6;73.3;-1;Portland, Oregon, USA
+Rusty Truck;Beach Blonde Ale;5.2;25;-1;Lincoln City, Oregon, USA
+Rusty Truck;Fender Bender Amber Ale;6.2;60;-1;Lincoln City, Oregon, USA
+Rusty Truck;Low Rider Lager;5;25;-1;Lincoln City, Oregon, USA
+Rusty Truck;Road Wrecker IPA;6.7;75;-1;Lincoln City, Oregon, USA
+Rusty Truck;Slant 6 Pale Ale;5.5;50;-1;Lincoln City, Oregon, USA
+Rusty Truck;Stupiphany Imperial Red Ale;8.5;85;-1;Lincoln City, Oregon, USA
+Sasquatch;Belgian Blonde Ale;7.5;34;-1;Portland, Oregon, USA
+Sasquatch;Bertha Brown Ale;5.3;37;-1;Portland, Oregon, USA
+Sasquatch;Celilo Cascadian Dark Ale;7.6;8;-1;Portland, Oregon, USA
+Sasquatch;Healy Heights Pale Ale;5.6;65;-1;Portland, Oregon, USA
+Sasquatch;Moby Dick Double IPA;10.2;90;-1;Portland, Oregon, USA
+Sasquatch;OR-7 Amber Ale;6.6;45;-1;Portland, Oregon, USA
+Sasquatch;Oregon Session Ale;4.7;20;-1;Portland, Oregon, USA
+Sasquatch;Red Electric IRA;6.7;70;-1;Portland, Oregon, USA
+Sasquatch;Stop Looking at Me Chuan Szechuan Peppercorn Saison;5.6;22;-1;Portland, Oregon, USA
+Sasquatch;Woodboy Dry Hop IPA;6.8;74;-1;Portland, Oregon, USA
+Saxer;Bock ;6.3;24;-1;Portland, Oregon, USA
+Saxer;Dark Bock ;6.4;17.5;-1;Portland, Oregon, USA
+Saxer;JackFrost Winter Doppelbock ;7.1;17.5;-1;Portland, Oregon, USA
+Saxer;Pilsner ;5.4;41;-1;Portland, Oregon, USA
+Saxer;Summer Lager ;5.3;9;-1;Portland, Oregon, USA
+Seven Brides;Abbey Apple Ale (AAA) ;5;10;-1;Silverton, Oregon, USA
+Seven Brides;Drama Princess;5.1;45;-1;Silverton, Oregon, USA
+Seven Brides;Emilys Ember;4.5;35;-1;Silverton, Oregon, USA
+Seven Brides;Frankenlous IPA ;7;105;-1;Silverton, Oregon, USA
+Seven Brides;Fresh Hop Emily's Ember ;-1;-1;-1;Silverton, Oregon, USA
+Seven Brides;Kili's Kolsch;4.8;-1;-1;Silverton, Oregon, USA
+Seven Brides;Laurens Pale Ale (LPA);5.5;50;-1;Silverton, Oregon, USA
+Seven Brides;Lils Pils;4.5;30;-1;Silverton, Oregon, USA
+Seven Brides;Maggies Marzen ;5.5;30;-1;Silverton, Oregon, USA
+Seven Brides;Roses Imperial Pilsner;7.5;-1;-1;Silverton, Oregon, USA
+Seven Brides;Weezin-ator;7.9;30;-1;Silverton, Oregon, USA
+Siletz;Arrowhead Amber Ale;-1;-1;-1;Siletz, Oregon, USA
+Siletz;Lovin Lager;-1;-1;-1;Siletz, Oregon, USA
+Siletz;Mojo Ale;6.5;-1;-1;Siletz, Oregon, USA
+Siletz;Noggin Knocker Barleywine-style Ale ;7.5;-1;-1;Siletz, Oregon, USA
+Siletz;Paddle Me IPA;-1;-1;-1;Siletz, Oregon, USA
+Siletz;Red Ale (Redhead Ale);4.5;-1;-1;Siletz, Oregon, USA
+Siletz;Winter Warmer ;-1;-1;-1;Siletz, Oregon, USA
+Siletz;Wooly Bully;6.4;38;-1;Siletz, Oregon, USA
+Silver Moon;Badlands ESB;5;30;-1;Bend, Oregon, USA
+Silver Moon;Bridge Creek Pilsner;4.7;9.5;-1;Bend, Oregon, USA
+Silver Moon;Hop KNOB IPA;5.7;40;-1;Bend, Oregon, USA
+Silver Moon;HOPpopatamus ;6.7;-1;-1;Bend, Oregon, USA
+Silver Moon;Hoptagon ;9;99;-1;Bend, Oregon, USA
+Silver Moon;Hounds Tooth Amber;4.4;10;-1;Bend, Oregon, USA
+Silver Moon;Panty Dropper Ale;5.8;83;-1;Bend, Oregon, USA
+Silver Moon;Sundance Tripple;-1;-1;-1;Bend, Oregon, USA
+Silver Moon;Voodoo Dog;5.5;47;-1;Bend, Oregon, USA
+Silver Moon;Winters Bock;-1;-1;-1;Bend, Oregon, USA
+Southern Oregon;Golden Ale;4.5;20;-1;Medford, Oregon, USA
+Southern Oregon;Holy Water Maibock ;7.1;30;-1;Medford, Oregon, USA
+Southern Oregon;Na Zdravi;4.8;-1;-1;Medford, Oregon, USA
+Southern Oregon;Nice Rack IPA;5.5;-1;-1;Medford, Oregon, USA
+Southern Oregon;Old Humbug II (2009) ;8.2;-1;-1;Medford, Oregon, USA
+Southern Oregon;Pale Ale;5;35;-1;Medford, Oregon, USA
+Southern Oregon;Woodshed Red;6.3;65;-1;Medford, Oregon, USA
+Standing Stone;Almond Brown Ale;4.3;20;-1;Ashland, Oregon, USA
+Standing Stone;Amber;-1;-1;-1;Ashland, Oregon, USA
+Standing Stone;Double India Pale Ale;7;95;-1;Ashland, Oregon, USA
+Standing Stone;India Pale Ale;6.84;60;-1;Ashland, Oregon, USA
+Standing Stone;Nut Brown Ale;-1;-1;-1;Ashland, Oregon, USA
+Steelhead;Barracuda Blonde;-1;-1;-1;Eugene, Oregon, USA
+Steelhead;Bombay Bomber IPA;-1;-1;-1;Eugene, Oregon, USA
+Steelhead;Bulldog Pale Ale;5.8;37;-1;Eugene, Oregon, USA
+Steelhead;Raging Rhino Red;5.4;-1;-1;Eugene, Oregon, USA
+Stickmen;Brown Dn'Unda;6.8;51;-1;Lake Oswego, Oregon, USA
+Stickmen;F-Bomb;7;75;-1;Lake Oswego, Oregon, USA
+Stickmen;One Rye Bitch ;10.6;98;-1;Lake Oswego, Oregon, USA
+Stickmen;One Ton Trolley;9.1;123;-1;Lake Oswego, Oregon, USA
+Terminal Gravity;Bucolic Plague Barleywine ;13.1;-1;-1;Enterprise, Oregon, USA
+Terminal Gravity;ESG;5.4;19;-1;Enterprise, Oregon, USA
+Terminal Gravity;Festivale ;8.3;73;-1;Enterprise, Oregon, USA
+Terminal Gravity;IPA;6.9;69;-1;Enterprise, Oregon, USA
+Terminal Gravity;Pale Ale;6.3;52;-1;Enterprise, Oregon, USA
+Terminal Gravity;Tap Out;9.6;39;-1;Enterprise, Oregon, USA
+Terminal Gravity;Ten;10;38;-1;Enterprise, Oregon, USA
+Terminal Gravity;Triple ;9.4;37;-1;Enterprise, Oregon, USA
+Terminal Gravity;Weed Whacker ;4.7;-1;-1;Enterprise, Oregon, USA
+The Commons;Avant Flandre ;5;34;-1;Portland, Oregon, USA
+The Commons;Biere de Garde ;5.3;19;-1;Portland, Oregon, USA
+The Commons;Blonde ;6.5;26;-1;Portland, Oregon, USA
+The Commons;Flemish Kiss;5.7;40;-1;Portland, Oregon, USA
+The Commons;Fleur de Ferme ;6;15;-1;Portland, Oregon, USA
+The Commons;Haver Bier ;5.6;16;-1;Portland, Oregon, USA
+The Commons;Little Brother ;8.5;20;-1;Portland, Oregon, USA
+The Commons;Madrone ;6;26;-1;Portland, Oregon, USA
+The Commons;Myrtle ;5.2;-1;-1;Portland, Oregon, USA
+The Commons;Pale Evening Ale ;5;30;-1;Portland, Oregon, USA
+The Commons;Sticke ;6.8;42;-1;Portland, Oregon, USA
+The Commons;Urban Farmhouse Ale;5.5;30;-1;Portland, Oregon, USA
+Three Creeks;8 Second IBA;6.6;85;-1;Sisters, Oregon, USA
+Three Creeks;Anvil Amber;5;32;-1;Sisters, Oregon, USA
+Three Creeks;Firestorm Red;5.8;65;-1;Sisters, Oregon, USA
+Three Creeks;Goldminer's Daughter Pre-prohibition Common Ale ;5.5;28;-1;Sisters, Oregon, USA
+Three Creeks;Hoodoo Voodoo IPA;6.2;82;-1;Sisters, Oregon, USA
+Three Creeks;Knotty Blonde;4;18;-1;Sisters, Oregon, USA
+Three Creeks;Old Prospector Pale;5.3;48;-1;Sisters, Oregon, USA
+Three Creeks;Raptor Rye IPA;6.2;-1;-1;Sisters, Oregon, USA
+Three Creeks;Rudolphs Imperial Red ;8.6;-1;-1;Sisters, Oregon, USA
+Three Creeks;Stonefly Rye;4.6;28;-1;Sisters, Oregon, USA
+Tucks;Black Forest Alt ;5;48;-1;Portland, Oregon, USA
+Tucks;Bullseye Pale ;-1;-1;-1;Portland, Oregon, USA
+Tucks;Catapult Belgian ;-1;-1;-1;Portland, Oregon, USA
+Tucks;Farmers Daughter ;-1;-1;-1;Portland, Oregon, USA
+Tucks;India Pale Ale ;-1;-1;-1;Portland, Oregon, USA
+Tucks;Kings Kolsch ;-1;-1;-1;Portland, Oregon, USA
+Tucks;Little Johns Small Ale ;-1;-1;-1;Portland, Oregon, USA
+Tucks;Little Johns Strong Ale ;-1;-1;-1;Portland, Oregon, USA
+Tugboat;Amber Ale;-1;-1;-1;Portland, Oregon, USA
+Tugboat;Czech Bitter;-1;-1;-1;Portland, Oregon, USA
+Tugboat;Extra Special Bitter (ESB);-1;-1;-1;Portland, Oregon, USA
+Tugboat;Hop Red;6.2;-1;-1;Portland, Oregon, USA
+Tugboat;India Pale Ale;-1;-1;-1;Portland, Oregon, USA
+Two Kilts;70 Shilling Scottish Ale;6.5;25;-1;Sherwood, Oregon, USA
+Two Kilts;IPA;6.5;75;-1;Sherwood, Oregon, USA
+Upright;Billy the Mountain ;9.1;-1;-1;Portland, Oregon, USA
+Upright;Five (#5);5.5;-1;-1;Portland, Oregon, USA
+Upright;Floral Rustica;5.1;-1;-1;Portland, Oregon, USA
+Upright;Four (#4);4.5;-1;-1;Portland, Oregon, USA
+Upright;Fresh Hop of Bel Air ;6.2;-1;-1;Portland, Oregon, USA
+Upright;Holy Herb ;6.9;-1;-1;Portland, Oregon, USA
+Upright;Old News Saison ;5.8;20;-1;Portland, Oregon, USA
+Upright;Pinot Barrel Four ;-1;-1;-1;Portland, Oregon, USA
+Upright;Reggae Junkie Gruit ;5.5;-1;-1;Portland, Oregon, USA
+Upright;Seven (#7);8;-1;-1;Portland, Oregon, USA
+Upright;Six (#6);6.7;-1;-1;Portland, Oregon, USA
+Upright;Turkey on Rye ;-1;-1;-1;Portland, Oregon, USA
+Uptown Market;Bitter Brunette ESB;5;37;-1;Portland, Oregon, USA
+Vertigo;Cyclone Cream Ale;4.6;11;-1;Hillsboro, Oregon, USA
+Vertigo;Friar Mikes IPA;6.1;62;-1;Hillsboro, Oregon, USA
+Vertigo;High Altitude Amber;5.1;40;-1;Hillsboro, Oregon, USA
+Vertigo;High Dive Rye;5;19;-1;Hillsboro, Oregon, USA
+Vertigo;Schwindel Alt;5.1;34;-1;Hillsboro, Oregon, USA
+Wakonda;Beach Comber Cream Ale;6.5;-1;-1;Florence, Oregon, USA
+Wakonda;Timberbeast IPA ;7.2;-1;-1;Florence, Oregon, USA
+Walkabout;Jabberwocky Ale;7;35;-1;Central Point, Oregon, USA
+Walkabout;Point The Bone ;7;64;-1;Central Point, Oregon, USA
+Walkabout;Redback IPA;6.5;58;-1;Central Point, Oregon, USA
+Walkabout;Workers Pale Ale;5.5;39;-1;Central Point, Oregon, USA
+White Oak;Black Cider;6.4;-1;-1;Newberg, Oregon, USA
+White Oak;Cider;6.8;-1;-1;Newberg, Oregon, USA
+Widmer Brothers;30th Anniversary - 1992 Doppelbock ;8.5;-1;-1;Portland, Oregon, USA
+Widmer Brothers;84/09 ;9.8;-1;-1;Portland, Oregon, USA
+Widmer Brothers;Alchemy Ale;5.8;40;-1;Portland, Oregon, USA
+Widmer Brothers;Alt ;4.9;-1;-1;Portland, Oregon, USA
+Widmer Brothers;Belgian Golden Ale ;6.1;-1;-1;Portland, Oregon, USA
+Widmer Brothers;Blonde Ale;4.3;26;-1;Portland, Oregon, USA
+Widmer Brothers;Broken Halo IPA;6;45;-1;Portland, Oregon, USA
+Widmer Brothers;Brrr ;7.2;50;-1;Portland, Oregon, USA
+Widmer Brothers;Citra Blonde Summer Brew ;4.3;20;-1;Portland, Oregon, USA
+Widmer Brothers;Columbia Common ;4.7;32;-1;Portland, Oregon, USA
+Widmer Brothers;Doppelbock;8.7;-1;-1;Portland, Oregon, USA
+Widmer Brothers;Drifter Pale Ale;5.7;32;-1;Portland, Oregon, USA
+Widmer Brothers;Drop Top Amber Ale;4.85;20;-1;Portland, Oregon, USA
+Widmer Brothers;Full Nelson;10;70;-1;Portland, Oregon, USA
+Widmer Brothers;Green and Gold ;5.2;-1;-1;Portland, Oregon, USA
+Widmer Brothers;Halo ;9.7;70;-1;Portland, Oregon, USA
+Widmer Brothers;Hefeweizen;4.7;32;-1;Portland, Oregon, USA
+Widmer Brothers;Hooligan;5.8;30;-1;Portland, Oregon, USA
+Widmer Brothers;Hop Jack;5;-1;-1;Portland, Oregon, USA
+Widmer Brothers;Hopturnal Emission Fresh Hop ;-1;-1;-1;Portland, Oregon, USA
+Widmer Brothers;Marionberry Hibiscus Gose ;5.5;-1;-1;Portland, Oregon, USA
+Widmer Brothers;Nelson Imperial IPA (Deadlift);8.6;70;-1;Portland, Oregon, USA
+Widmer Brothers;Okto Festival Ale (Oktoberfest) ;5.3;28;-1;Portland, Oregon, USA
+Widmer Brothers;Old Embalmer ;10.2;-1;-1;Portland, Oregon, USA
+Widmer Brothers;Reserve Barrel Aged Brrrbon ;9.4;50;-1;Portland, Oregon, USA
+Widmer Brothers;Reserve Cherry Oak Doppelbock ;9;40;-1;Portland, Oregon, USA
+Widmer Brothers;Reserve Kill Devil Brown Ale ;9.5;-1;-1;Portland, Oregon, USA
+Widmer Brothers;Reserve Lemongrass Wheat;9;20;-1;Portland, Oregon, USA
+Widmer Brothers;Reserve Prickly Pear Braggot ;10;-1;-1;Portland, Oregon, USA
+Widmer Brothers;Rotator IPA: Falconer's IPA ;7;65;-1;Portland, Oregon, USA
+Widmer Brothers;Rotator IPA: Hopside Down India Pale Lager ;6.7;50;-1;Portland, Oregon, USA
+Widmer Brothers;Rotator IPA: ORyely IPA ;6.4;50;-1;Portland, Oregon, USA
+Widmer Brothers;Rotator IPA: Shaddock IPA ;6.2;50;-1;Portland, Oregon, USA
+Widmer Brothers;Rotator IPA: Spiced IPA ;7;70;-1;Portland, Oregon, USA
+Widmer Brothers;Rotator IPA: X-114 IPA ;6;50;-1;Portland, Oregon, USA
+Widmer Brothers;Sommerbrau ;4.8;-1;-1;Portland, Oregon, USA
+Widmer Brothers;Spring Run IPA ;6;55;-1;Portland, Oregon, USA
+Widmer Brothers;Springfest ;4.9;-1;-1;Portland, Oregon, USA
+Widmer Brothers;Sunburn Summer Brew ;4.3;20;-1;Portland, Oregon, USA
+Widmer Brothers;Upheaval IPA;7.1;85;-1;Portland, Oregon, USA
+Widmer Brothers;W05 IPA ;6;55;-1;Portland, Oregon, USA
+Widmer Brothers;W06 N.W. Red Ale ;7.15;50;-1;Portland, Oregon, USA
+Widmer Brothers;W07 Pale Ale ;5.7;36;-1;Portland, Oregon, USA
+Widmer Brothers;W09 Belgian Style Ale ;6.5;26;-1;Portland, Oregon, USA
+Widmer Brothers;W10 Black IPA (Pitch Black IPA);6.5;65;-1;Portland, Oregon, USA
+Widmer Brothers;W12 Dark Saison ;5.5;25;-1;Portland, Oregon, USA
+Widmer Brothers;Wildwood;6;-1;-1;Portland, Oregon, USA
+Widmer Brothers;Winternacht ;7;42;-1;Portland, Oregon, USA
+Wild Ride;HopperHead IPA;6.7;75;-1;Redmond, Oregon, USA
+Wild River;Bohemian Pilsener;4.2;-1;-1;Grants Pass, Oregon, USA
+Wild River;Cave Bear Barley Wine;8.1;-1;-1;Grants Pass, Oregon, USA
+Wild River;ESB;4.3;-1;-1;Grants Pass, Oregon, USA
+Wild River;Harbor Lights;5;20;-1;Grants Pass, Oregon, USA
+Wild River;India Pale Ale;7.2;80;-1;Grants Pass, Oregon, USA
+Wild River;Nut Brown Ale;3;-1;-1;Grants Pass, Oregon, USA
+Wild River;Oktoberfest ;-1;-1;-1;Grants Pass, Oregon, USA
+Wild River;Snug Harbor Old Ale ;-1;-1;-1;Grants Pass, Oregon, USA
+Wild River;Weizen Bock ;-1;-1;-1;Grants Pass, Oregon, USA
+Woof Breweries;Dog Days of Summer India Pale Ale ;-1;-1;-1;Tualatin, Oregon, USA
+Woof Breweries;Dog Eat Dog Pilsner ;-1;-1;-1;Tualatin, Oregon, USA
+Woof Breweries;Dog Leg Right Amber Ale ;-1;-1;-1;Tualatin, Oregon, USA
+Worthy;Bust Out Bock;7.7;30;-1;Bend, Oregon, USA
+Worthy;Easy Day Kolsch;4.5;25;-1;Bend, Oregon, USA
+Worthy;Eruption Imperial Red Ale;8;100;-1;Bend, Oregon, USA
+Worthy;Farm Out Saison;7.3;22;-1;Bend, Oregon, USA
+Worthy;Helles Bock;6.3;20;-1;Bend, Oregon, USA
+Worthy;Imperial IPA;8.5;85;-1;Bend, Oregon, USA
+Worthy;IPA;6.9;69;-1;Bend, Oregon, USA
+Worthy;Pale;6;50;-1;Bend, Oregon, USA
+Worthy;Pilot Butte Bitter;4.7;35;-1;Bend, Oregon, USA
+Worthy;Powder Keg ;7.1;65;-1;Bend, Oregon, USA
+Worthy;SMaSH Meridian;5.4;65;-1;Bend, Oregon, USA

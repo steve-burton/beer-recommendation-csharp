@@ -1,0 +1,208 @@
+body {
+  background-image: url(/Content/beer-wood.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.under-line {
+  display: block;
+  /*margin-top: 20px;*/
+  padding: 2px 10px 2px 10px;
+  border-bottom: 1px solid rgb(79, 56, 29);
+  margin-bottom: 10px;
+}
+
+.btn-warning {
+  /*8E6737*/
+  background-color: rgb(142, 103, 55);
+  border-color: rgb(129, 93, 50);
+}
+
+.btn-warning:focus,
+.btn-warning.focus {
+
+  background-color: rgb(184, 133, 71);
+  border-color: rgb(165, 120, 64);
+}
+
+.btn-warning:hover {
+  background-color: rgb(184, 133, 71);
+  border-color: rgb(165, 120, 64);
+}
+
+.btn-warning:active,
+.btn-warning.active,
+.open > .dropdown-toggle.btn-warning {
+  background-color: rgb(184, 133, 71);
+  border-color: rgb(165, 120, 64);
+}
+
+.btn-warning:active:hover,
+.btn-warning.active:hover,
+.open > .dropdown-toggle.btn-warning:hover,
+.btn-warning:active:focus,
+.btn-warning.active:focus,
+.open > .dropdown-toggle.btn-warning:focus,
+.btn-warning:active.focus,
+.btn-warning.active.focus,
+.open > .dropdown-toggle.btn-warning.focus {
+  background-color: rgb(165, 120, 64);
+  border-color: rgb(191, 145, 90);
+}
+.error-message {
+  color: red;
+  font-style: italic;
+}
+.beer-list-item {
+
+}
+.beer-list-item button {
+  vertical-align: middle;
+}
+.page-header {
+  width: 100%;
+  margin: 2% 5% 6% 1%;
+  border-radius: 20px;
+  padding: 2% 5% 2% 5%;
+  background-color: rgba(255, 255, 255, 0.5);
+  float: center;
+}
+a:link {
+  color: rgb(96, 65, 28);
+}
+a:visited {
+  color: rgb(96, 65, 28);
+}
+a:hover {
+  background-color: rgba(255, 255, 255, 0.6);
+  color: rgb(142, 103, 55);
+  text-decoration: none;
+}
+.form a:hover {
+  background-color: rgba(255, 255, 255, 0.6);
+  color: rgb(142, 103, 55);
+}
+div .form {
+  padding: 5%;
+  width: 70%;
+  margin-left: 1%;
+  border-radius: 15px;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+h1 {
+  text-align: center;
+  font-size: 5em;
+  font-weight: lighter;
+  color: rgb(79, 56, 29);
+}
+h2 {
+  color: rgb(79, 56, 29);
+  font-size: 4em;
+}
+h3 {
+  color: rgb(79, 56, 29);
+  font-size: 3em;
+}
+h4 {
+  color: rgb(79, 56, 29);
+  font-size: 2em;
+}
+h5 {
+  color: rgb(79, 56, 29);
+  font-size: 1.5em;
+}
+p {
+  color: rgb(96, 65, 28);
+  font-size: 1.2em;
+}
+
+.nav-column a {
+  background-color: rgba(255, 255, 255, 0.6);
+  width: 70%;
+  margin: 0% 2% 5% 1%;
+  border-radius: 10px;
+  padding: 2% 2% 2% 2%;
+  line-height: 6em;
+  font-weight: 600;
+  font-size: 1.2em;
+  color: rgb(96, 65, 28);
+  text-align: center;
+}
+.main-text {
+  background-color: rgba(255, 255, 255, 0.1);
+  width: 70%;
+  margin: 2% 2% 5% 1%;
+  border-radius: 10px;
+  padding: 2% 2% 2% 2%;
+  /*line-height: 6em;*/
+  font-weight: 500;
+}
+.main-text h3 {
+  color: rgba(255, 255, 255, 0.6);
+}
+.main-text p {
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 1.2em;
+}
+.nav-column a:hover {
+  color: rgb(142, 103, 55);
+}
+.nav-link {
+  float: right:
+}
+.nav-link a {
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+  padding: 0% 3% 0% 3%;
+}
+.btn-warning {
+  background color: rgb(96, 65, 28);
+}
+.new-form label {
+  margin-top: 10px;
+  color: rgb(96, 65, 28);
+}
+
+label {
+  color: rgb(96, 65, 28);
+}
+
+.form a {
+  /*margin-left: 10px;*/
+  color: rgb(96, 65, 28);
+}
+
+.submit-div button {
+  margin-top: 10px;
+}
+li {
+  list-style: none;
+}
+div .recommend {
+  padding: 4% 4% 4% 4%;
+  width: 90%;
+  margin-left: 1%;
+  border-radius: 15px;
+  background-color: rgba(255, 255, 255, 0.4);
+}
+#new-user-link {
+  color: white;
+}
+.login-logout
+{
+  margin-top: 100px;
+}
+
+.login-logout a {
+  background-color: rgba(255, 255, 255, 0.1);
+  width: 70%;
+  margin: 0% 2% 5% 1%;
+  border-radius: 10px;
+  padding: 2% 2% 2% 2%;
+  line-height: 6em;
+  font-weight: 600;
+  font-size: 1.2em;
+  color: rgb(96, 65, 28);
+  text-align: center;
+}

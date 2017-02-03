@@ -1,0 +1,8 @@
+Deschutes/Boulevard;Conflux No. 2 ;7.3;40;-1;Bend, Oregon, USA
+Deschutes/Hair of the Dog;Conflux No. 1 - Collage ;11.5;-1;-1;Bend, Oregon, USA
+Fort George / Block 15 / Boneyard;3-Way IPA ;7.2;-1;-1;Astoria, Oregon, USA
+Fort George / Gigantic / Lompoc;3-Way IPA ;6.69;-1;-1;Astoria, Oregon, USA
+Ninkasi / Devils Backbone;The Devil Went Down To Oregon ;7.2;72;-1;Eugene, Oregon, USA
+Widmer Brothers / Cigar City;Gentlemen’s Club (Bourbon Barrel) ;10.5;-1;-1;Portland, Oregon, USA
+Widmer Brothers / Cigar City;Gentlemen’s Club (New Oak Spirals) ;9.5;-1;-1;Portland, Oregon, USA
+Widmer Brothers / Cigar City;Gentlemen’s Club (Rye Whiskey Barrel) ;10.5;-1;-1;Portland, Oregon, USA

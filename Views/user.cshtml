@@ -1,0 +1,28 @@
+@{
+	Layout = "Shared/_Layout.cshtml";
+	var ratedBeers = @Model.GetRated();
+	var userId = @Model.GetId();
+}
+<div class="form">
+	<h2>@Model.GetName()</h2>
+	<div class="under-line"></div>
+	@if (ratedBeers.Count > 0)
+	{
+		<h4>Rated beers:</h4>
+		@foreach (var beer in ratedBeers)
+		{
+			<div class="row beer-list-item">
+				<div class="col-md-8">
+					<p><a href="/beers/@beer.GetId()">@beer.GetName()</a> - Rating: @beer.GetUserRating(userId) out of 5</p>
+				</div>
+				<div class="col-md-4">
+					<form action="/recommend/results" method="get">
+						<input type="hidden" name="beer-id" value="@beer.GetId()">
+						<input type="hidden" name="list-size" value="5">
+						<button class="btn btn-xs btn-warning" type="submit">Get similar beers</button>
+					</form>
+				</div>
+			</div>
+		}
+	}
+</div>

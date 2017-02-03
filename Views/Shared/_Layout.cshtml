@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Oregon Beer Central</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="/../../Content/css/styles.css">
+  </head>
+  <body>
+    <div class="container">
+      <div class="page-header">
+        @if (Request.Cookies.ContainsKey("userId") && Request.Cookies["userId"] != "0")
+        {
+          <div class="row">
+            <div class="col-md-5">
+            </div>
+            <div class="col-md-7 nav-link">
+              <div class="row">
+                <a href="/beers/search">Search&nbsp;Beers</a>&nbsp;&nbsp;
+                <a href="/">Home</a>&nbsp;&nbsp;
+                <a href="/users/profile">View&nbsp;Profile</a>&nbsp;&nbsp;
+                <a href="/logout">Log&nbsp;Out</a>&nbsp;&nbsp;
+                <a href="/database">Add&nbsp;to&nbsp;Our&nbsp;Database</a>
+              </div>
+            </div>
+          </div>
+        }
+        else
+        {
+          <div class="row">
+            <div class="col-md-8">
+            </div>
+            <div class="col-md-4 nav-link">
+              <p><a href="/">Home</a>&nbsp;&nbsp;<a href="/users/new">Create&nbsp;Account</a>&nbsp;&nbsp;<a href="/login">Log&nbsp;In</a></p>
+            </div>
+          </div>
+        }
+        <div class="row">
+          <h1>Oregon Beer Central</h1>
+        </div>
+      </div>
+      @RenderBody()
+    </div>
+  </body>
+</html>

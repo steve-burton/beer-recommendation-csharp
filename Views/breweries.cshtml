@@ -1,0 +1,14 @@
+@{
+	Layout = "Shared/_Layout.cshtml";
+}
+<div class="form">
+	<h3>Here is your list of breweries</h3>
+  @foreach (var brewery in Model)
+  {
+    <div class="row">
+			<div class="col-md-12">
+	      <p><a href="/breweries/@brewery.GetId()">@brewery.GetName()</a></p>
+			</div>
+    </div>
+  }
+</div>

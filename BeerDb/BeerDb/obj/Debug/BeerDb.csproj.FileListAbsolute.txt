@@ -1,0 +1,12 @@
+C:\Users\epicodus\Desktop\BeerDb\BeerDb\BeerDb\bin\Debug\BeerDb.exe.config
+C:\Users\epicodus\Desktop\BeerDb\BeerDb\BeerDb\bin\Debug\BeerDb.exe
+C:\Users\epicodus\Desktop\BeerDb\BeerDb\BeerDb\bin\Debug\BeerDb.pdb
+C:\Users\epicodus\Desktop\BeerDb\BeerDb\BeerDb\obj\Debug\BeerDb.csprojResolveAssemblyReference.cache
+C:\Users\epicodus\Desktop\BeerDb\BeerDb\BeerDb\obj\Debug\BeerDb.exe
+C:\Users\epicodus\Desktop\BeerDb\BeerDb\BeerDb\obj\Debug\BeerDb.pdb
+C:\Users\epicodus\Desktop\BeerRecommendation\BeerDb\BeerDb\bin\Debug\BeerDb.exe.config
+C:\Users\epicodus\Desktop\BeerRecommendation\BeerDb\BeerDb\obj\Debug\BeerDb.exe
+C:\Users\epicodus\Desktop\BeerRecommendation\BeerDb\BeerDb\obj\Debug\BeerDb.pdb
+C:\Users\epicodus\Desktop\BeerRecommendation\BeerDb\BeerDb\bin\Debug\BeerDb.exe
+C:\Users\epicodus\Desktop\BeerRecommendation\BeerDb\BeerDb\bin\Debug\BeerDb.pdb
+C:\Users\epicodus\Desktop\BeerRecommendation\BeerDb\BeerDb\obj\Debug\BeerDb.csprojResolveAssemblyReference.cache

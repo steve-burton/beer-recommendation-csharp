@@ -1,0 +1,13 @@
+@{
+	Layout = "Shared/_Layout.cshtml";
+}
+<div class="form new-form">
+	<form action="/database/breweries/new/success" method="post">
+		<label for="Name">Brewery Name:</label>
+	  <input class="form-control" type="text" name="name" placeholder="Brewery Name" required>
+		<label for="location">Location:</label>
+	  <input class="form-control" type="text" name="location" placeholder="Location" required>
+		<br>
+	  <button class="btn btn-warning" type="submit">Add Brewery</button>
+	</form>
+</div>

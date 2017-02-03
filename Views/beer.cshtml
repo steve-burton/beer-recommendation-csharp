@@ -1,0 +1,84 @@
+@{
+	Layout = "Shared/_Layout.cshtml";
+	double abv = @Model.GetAbv();
+	double ibu = @Model.GetIbu();
+	float rating = @Model.GetRating();
+	var breweries = @Model.GetBreweries();
+}
+<div class="form">
+  <h3>
+		@foreach (var brewery in breweries)
+		{
+			<a href="/breweries/@brewery.GetId()">@brewery.GetName()</a>
+		}
+		@Model.GetName()
+	</h3>
+	<div class="under-line"></div>
+	<div class="row">
+		<div class="col-md-6">
+			@if (abv == 0.0)
+			{
+				<h4>Alcohol by volume: Unknown</h4>
+			}
+			else
+			{
+				<h4>Alcohol by volume: @abv%</h4>
+			}
+		</div>
+		<div class="col-md-6">
+			@if (ibu == 0.0)
+			{
+				<h4>Bitterness: Unknown</h4>
+			}
+			else
+			{
+				<h4>Bitterness: @ibu IBU</h4>
+			}
+		</div>
+	</div>
+	@if (rating > 0.0)
+	{
+		<h4>Average user rating: @rating out of 5</h4>
+	}
+	<br>
+	<h4>Similar beers:</h4>
+	<ul>
+		@foreach (var beer in Model.GetSimilar())
+		{
+			var beerBreweries = beer.GetBreweries();
+			<li>
+				<div class="row">
+					<div class="col-md-12">
+						<p>
+							<a href="/beers/@beer.GetId()">@beer.GetName()</a>
+							- Brewery:
+							@foreach (var brewery in beerBreweries)
+							{
+								<a href="/breweries/@brewery.GetId()">@brewery.GetName()</a>
+							}
+						</p>
+					</div>
+				</div>
+			</li>
+		}
+	</ul>
+	@if ((Request.Cookies.ContainsKey("userId")) && (int.Parse(Request.Cookies["userId"]) > 0))
+	{
+		<h4>Rate this beer:</h4>
+		<form action="/beers/@Model.GetId()" method="post">
+			<select class="form-control" name="beerRating" required>
+				@for (int newRating = 1; newRating <= 5; newRating++)
+				{
+					<option value="@newRating">@newRating.ToString()</option>
+				}
+			</select>
+			<br>
+			<button class="btn btn-warning" type="submit">Rate</button>
+		</form>
+	}
+	<br>
+	<form class="form-inline" action="/database/beers/update" method="get">
+		<input type="hidden" name="beer-id" value="@Model.GetId()">
+		<button type="submit" class="btn btn-warning">Edit Beer</button>
+	</form>
+</div>

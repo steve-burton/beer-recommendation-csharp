@@ -1,0 +1,31 @@
+@{
+	Layout = "Shared/_Layout.cshtml";
+}
+<div class="recommend">
+	<h2>Get Recommended Beers</h2>
+	<div class="row">
+	  <form action="/recommend/results" method="get">
+	    <div class="col-sm-7">
+	      <label for="beer-id">Select a beer you like:</label>
+	      <select class="form-control" name="beer-id" required>
+	        @foreach (var beer in Model)
+	        {
+	          <option value="@beer.GetId()">@beer.GetName() -
+	          <strong>Brewery:</strong>
+	          @foreach (var brewery in beer.GetBreweries())
+	          {
+	            <span> @brewery.GetName()</span>
+	          }</option>
+	        }
+	      </select>
+	    </div>
+	    <div class="col-sm-5">
+	      <label for="list-size">How many recommendations?</label>
+	      <input class="form-control" type="number" name="list-size" min="1" max="50" value="5" required>
+	    </div>
+	    <div class="col-sm-12 submit-div">
+	      <button type="submit" class="btn btn-warning">Get Recommendations</button>
+	    </div>
+	  </form>
+	</div>
+</div>

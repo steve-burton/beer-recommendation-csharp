@@ -1,0 +1,29 @@
+@{
+	Layout = "Shared/_Layout.cshtml";
+}
+<div class="form">
+	<h2>Recommended Beers</h2>
+	<ul>
+	  @foreach (var beer in Model)
+	  {
+	    <li>
+		    <p>
+			    <a href="/beers/@beer.GetId()">@beer.GetName()</a> |
+			    Brewery:
+			    @foreach (var brewery in beer.GetBreweries())
+			    {
+			      <a href="/breweries/@brewery.GetId()"> @brewery.GetName()</a>
+			    }
+					@if (@beer.GetRating() >0)
+					{
+						<span> | Average User Rating: @beer.GetRating() out of 5</span>
+					}
+					else
+					{
+						<span> | Average User Rating: Not yet rated</span>
+					}
+		    </p>
+	    </li>
+	  }
+	</ul>
+</div>
